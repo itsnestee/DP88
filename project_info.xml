@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="Dp88"/>
+  <Version value="1.0.0"/>
+  <Description value=""/>
+  <BundleIdentifier value="com.deepInstruments.dp88"/>
+  <PluginCode value="Dpit"/>
+  <EmbedAudioFiles value="Yes"/>
+  <EmbedImageFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="No"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_SAMPLE_DIALOG_SHOW_INSTALL_BUTTON=0&#10;HISE_SAMPLE_DIALOG_SHOW_LOCATE_BUTTON=1"/>
+  <ExtraDefinitionsOSX value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_SAMPLE_DIALOG_SHOW_INSTALL_BUTTON=0&#10;HISE_SAMPLE_DIALOG_SHOW_LOCATE_BUTTON=1&#10;"/>
+  <ExtraDefinitionsIOS value=""/>
+  <ExtraDefinitionsLinux value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_Modulation"/>
+  <SupportMonoFX value="No"/>
+  <EnableMidiInputFX value="No"/>
+  <EnableSoundGeneratorsFX value="No"/>
+  <VST3Support value="1"/>
+  <UseRawFrontend value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value=""/>
+  <LinkExpansionsToProject value="No"/>
+  <ReadOnlyFactoryPresets value="No"/>
+  <EnableMidiOut value="No"/>
+  <ForceStereoOutput value="1"/>
+  <AdminPermissions value="No"/>
+  <EmbedUserPresets value="Yes"/>
+</ProjectSettings>
