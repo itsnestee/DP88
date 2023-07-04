@@ -1,6 +1,8 @@
 AdditionalSourceCode/
 AudioFiles/
 Binaries/
-DspNetworks/
+DspNetworks/Binaries/
 Expansions/
 Samples/
+HISE-develop/
+.DS_Store

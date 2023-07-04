@@ -18,7 +18,8 @@ const var Knob11 = Content.getComponent("Knob11");
 const var Knob12 = Content.getComponent("Knob12");
 const var Knob13 = Content.getComponent("Knob13");
 const var Knob14 = Content.getComponent("Knob14");
-
+//FX
+const var Shimmer_FX = Synth.getEffect("Shimmer_FX");
 
 
 
@@ -59,7 +60,7 @@ else
 	g.setFont("Roboto", 8);
 	g.drawText("ATTACK", [20, 155, 30, 10]);
 	g.drawText("DECAY", [70, 155, 30, 10]);
-	g.drawText("SUSTAN", [115, 155, 40, 10]);
+	g.drawText("SHIMMER", [115, 155, 40, 10]);
 	g.drawText("RELEASE", [165, 155, 40, 10]);
 });
 	
@@ -152,6 +153,7 @@ inline function onselK2Control(component, value)
 		Button12.setValue(0);
 		Button13.setValue(0);
 		Button14.setValue(0);
+		Subs.asSampler().loadSampleMap("Bells");
 	
 	}
 	
@@ -161,6 +163,7 @@ inline function onselK2Control(component, value)
 		Button12.setValue(1);
 		Button13.setValue(0);
 		Button14.setValue(0);
+		Subs.asSampler().loadSampleMap("LS Organ");
 	
 	}
 	
@@ -170,6 +173,7 @@ inline function onselK2Control(component, value)
 		Button12.setValue(0);
 		Button13.setValue(1);
 		Button14.setValue(0);
+		Subs.asSampler().loadSampleMap("Strings");
 	
 	}
 	else if(value == 3)
@@ -178,6 +182,7 @@ inline function onselK2Control(component, value)
 		Button12.setValue(0);
 		Button13.setValue(0);
 		Button14.setValue(1);
+		Subs.asSampler().loadSampleMap("Worship Pad");
 
 	}
 };
@@ -210,10 +215,10 @@ inline function onKnob12Control(component, value)
 
 Knob12.setControlCallback(onKnob12Control);
 
-//PSustain
+//PShimmer
 inline function onKnob13Control(component, value)
 {
-	AHDSREnvelope3.setAttribute(6, value);
+	Shimmer_FX.setAttribute(0, value);
 };
 
 Knob13.setControlCallback(onKnob13Control);
@@ -243,6 +248,7 @@ inline function onButton11Control(component, value)
 	if(value == 1)
 	{
 		selK2.setValue(0);
+		Subs.asSampler().loadSampleMap("Bells");
 	}
 	
 	
@@ -258,6 +264,7 @@ inline function onButton12Control(component, value)
 	if(value == 1)
 	{
 		selK2.setValue(1);
+		Subs.asSampler().loadSampleMap("LS Organ");
 	}
 	
 };
@@ -271,6 +278,7 @@ inline function onButton13Control(component, value)
 	if(value == 1)
 	{
 		selK2.setValue(2);
+		Subs.asSampler().loadSampleMap("Strings");
 	}
 	
 };
@@ -285,6 +293,7 @@ inline function onButton14Control(component, value)
 	if(value == 1)
 	{
 		selK2.setValue(3);
+		Subs.asSampler().loadSampleMap("Worship Pad");
 	}
 	
 };

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Ballad 1" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.535438060760498" SampleEnd="297675"
+          MonolithOffset="0" MonolithLength="299008" SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.567921876907349" SampleEnd="540225"
+          MonolithOffset="299008" MonolithLength="540672" SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.389034748077393" SampleEnd="396900"
+          MonolithOffset="839680" MonolithLength="397312" SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.009197473526001" SampleEnd="529636"
+          MonolithOffset="1236992" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.037937641143799" SampleEnd="382452"
+          MonolithOffset="1769472" MonolithLength="385024" SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.699398517608643" SampleEnd="530738"
+          MonolithOffset="2154496" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.073399066925049" SampleEnd="557428"
+          MonolithOffset="2686976" MonolithLength="561152" SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.688546180725098" SampleEnd="325237"
+          MonolithOffset="3248128" MonolithLength="327680" SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.107673406600952" SampleEnd="376136"
+          MonolithOffset="3575808" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.189788818359375" SampleEnd="446604"
+          MonolithOffset="3952640" MonolithLength="450560" SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.39444637298584" SampleEnd="320528"
+          MonolithOffset="4403200" MonolithLength="323584" SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.480773210525513" SampleEnd="531979"
+          MonolithOffset="4726784" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.818995237350464" SampleEnd="375493"
+          MonolithOffset="5259264" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.055322170257568" SampleEnd="405811"
+          MonolithOffset="5636096" MonolithLength="409600" SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.114883184432983"
+          SampleEnd="521206" MonolithOffset="6045696" MonolithLength="524288"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.343919992446899"
+          SampleEnd="342280" MonolithOffset="6569984" MonolithLength="344064"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.756714701652527"
+          SampleEnd="634695" MonolithOffset="6914048" MonolithLength="634880"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.712133646011353"
+          SampleEnd="363825" MonolithOffset="7548928" MonolithLength="364544"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.194040775299072"
+          SampleEnd="552765" MonolithOffset="7913472" MonolithLength="552960"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.067642688751221"
+          SampleEnd="647282" MonolithOffset="8466432" MonolithLength="651264"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.03578519821167"
+          SampleEnd="375033" MonolithOffset="9117696" MonolithLength="376832"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.00833535194397"
+          SampleEnd="349607" MonolithOffset="9494528" MonolithLength="352256"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.204966068267822"
+          SampleEnd="396900" MonolithOffset="9846784" MonolithLength="397312"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.657628536224365"
+          SampleEnd="627345" MonolithOffset="10244096" MonolithLength="630784"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.519840002059937"
+          SampleEnd="413965" MonolithOffset="10874880" MonolithLength="417792"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.708770751953125"
+          SampleEnd="516086" MonolithOffset="11292672" MonolithLength="516096"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.197277545928955"
+          SampleEnd="369498" MonolithOffset="11808768" MonolithLength="372736"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="31" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.60228705406189"
+          SampleEnd="551250" MonolithOffset="12181504" MonolithLength="552960"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.535438060760498" SampleEnd="297675"
+          MonolithOffset="12734464" MonolithLength="299008" SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.567921876907349" SampleEnd="540225"
+          MonolithOffset="13033472" MonolithLength="540672" SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.389034748077393" SampleEnd="396900"
+          MonolithOffset="13574144" MonolithLength="397312" SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.009197473526001" SampleEnd="529636"
+          MonolithOffset="13971456" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.037937641143799" SampleEnd="382452"
+          MonolithOffset="14503936" MonolithLength="385024" SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.699398517608643" SampleEnd="530738"
+          MonolithOffset="14888960" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.073399066925049" SampleEnd="557428"
+          MonolithOffset="15421440" MonolithLength="561152" SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.688546180725098" SampleEnd="325237"
+          MonolithOffset="15982592" MonolithLength="327680" SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.107673406600952" SampleEnd="376136"
+          MonolithOffset="16310272" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.189788818359375" SampleEnd="446604"
+          MonolithOffset="16687104" MonolithLength="450560" SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.39444637298584" SampleEnd="320528"
+          MonolithOffset="17137664" MonolithLength="323584" SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.480773210525513" SampleEnd="531979"
+          MonolithOffset="17461248" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.818995237350464" SampleEnd="375493"
+          MonolithOffset="17993728" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.055322170257568" SampleEnd="405811"
+          MonolithOffset="18370560" MonolithLength="409600" SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.114883184432983"
+          SampleEnd="521206" MonolithOffset="18780160" MonolithLength="524288"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.343919992446899"
+          SampleEnd="342280" MonolithOffset="19304448" MonolithLength="344064"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.756714701652527"
+          SampleEnd="634695" MonolithOffset="19648512" MonolithLength="634880"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.712133646011353"
+          SampleEnd="363825" MonolithOffset="20283392" MonolithLength="364544"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.194040775299072"
+          SampleEnd="552765" MonolithOffset="20647936" MonolithLength="552960"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.067642688751221"
+          SampleEnd="647282" MonolithOffset="21200896" MonolithLength="651264"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.03578519821167"
+          SampleEnd="375033" MonolithOffset="21852160" MonolithLength="376832"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.00833535194397"
+          SampleEnd="349607" MonolithOffset="22228992" MonolithLength="352256"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.204966068267822"
+          SampleEnd="396900" MonolithOffset="22581248" MonolithLength="397312"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.657628536224365"
+          SampleEnd="627345" MonolithOffset="22978560" MonolithLength="630784"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.519840002059937"
+          SampleEnd="413965" MonolithOffset="23609344" MonolithLength="417792"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.708770751953125"
+          SampleEnd="516086" MonolithOffset="24027136" MonolithLength="516096"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.197277545928955"
+          SampleEnd="369498" MonolithOffset="24543232" MonolithLength="372736"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="32" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.60228705406189"
+          SampleEnd="551250" MonolithOffset="24915968" MonolithLength="552960"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.535438060760498" SampleEnd="297675"
+          MonolithOffset="25468928" MonolithLength="299008" SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.567921876907349" SampleEnd="540225"
+          MonolithOffset="25767936" MonolithLength="540672" SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.389034748077393" SampleEnd="396900"
+          MonolithOffset="26308608" MonolithLength="397312" SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.009197473526001" SampleEnd="529636"
+          MonolithOffset="26705920" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.037937641143799" SampleEnd="382452"
+          MonolithOffset="27238400" MonolithLength="385024" SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.699398517608643" SampleEnd="530738"
+          MonolithOffset="27623424" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.073399066925049" SampleEnd="557428"
+          MonolithOffset="28155904" MonolithLength="561152" SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.688546180725098" SampleEnd="325237"
+          MonolithOffset="28717056" MonolithLength="327680" SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.107673406600952" SampleEnd="376136"
+          MonolithOffset="29044736" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.189788818359375" SampleEnd="446604"
+          MonolithOffset="29421568" MonolithLength="450560" SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.39444637298584" SampleEnd="320528"
+          MonolithOffset="29872128" MonolithLength="323584" SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.480773210525513" SampleEnd="531979"
+          MonolithOffset="30195712" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.818995237350464" SampleEnd="375493"
+          MonolithOffset="30728192" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.055322170257568" SampleEnd="405811"
+          MonolithOffset="31105024" MonolithLength="409600" SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.114883184432983"
+          SampleEnd="521206" MonolithOffset="31514624" MonolithLength="524288"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.343919992446899"
+          SampleEnd="342280" MonolithOffset="32038912" MonolithLength="344064"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.756714701652527"
+          SampleEnd="634695" MonolithOffset="32382976" MonolithLength="634880"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.712133646011353"
+          SampleEnd="363825" MonolithOffset="33017856" MonolithLength="364544"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.194040775299072"
+          SampleEnd="552765" MonolithOffset="33382400" MonolithLength="552960"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.067642688751221"
+          SampleEnd="647282" MonolithOffset="33935360" MonolithLength="651264"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.03578519821167"
+          SampleEnd="375033" MonolithOffset="34586624" MonolithLength="376832"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.00833535194397"
+          SampleEnd="349607" MonolithOffset="34963456" MonolithLength="352256"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.204966068267822"
+          SampleEnd="396900" MonolithOffset="35315712" MonolithLength="397312"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.657628536224365"
+          SampleEnd="627345" MonolithOffset="35713024" MonolithLength="630784"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.519840002059937"
+          SampleEnd="413965" MonolithOffset="36343808" MonolithLength="417792"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.708770751953125"
+          SampleEnd="516086" MonolithOffset="36761600" MonolithLength="516096"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.197277545928955"
+          SampleEnd="369498" MonolithOffset="37277696" MonolithLength="372736"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="71" HiVel="99" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.60228705406189"
+          SampleEnd="551250" MonolithOffset="37650432" MonolithLength="552960"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.535438060760498" SampleEnd="297675"
+          MonolithOffset="38203392" MonolithLength="299008" SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.567921876907349" SampleEnd="540225"
+          MonolithOffset="38502400" MonolithLength="540672" SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.389034748077393" SampleEnd="396900"
+          MonolithOffset="39043072" MonolithLength="397312" SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.009197473526001" SampleEnd="529636"
+          MonolithOffset="39440384" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.037937641143799" SampleEnd="382452"
+          MonolithOffset="39972864" MonolithLength="385024" SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.699398517608643" SampleEnd="530738"
+          MonolithOffset="40357888" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.073399066925049" SampleEnd="557428"
+          MonolithOffset="40890368" MonolithLength="561152" SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.688546180725098" SampleEnd="325237"
+          MonolithOffset="41451520" MonolithLength="327680" SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.107673406600952" SampleEnd="376136"
+          MonolithOffset="41779200" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.189788818359375" SampleEnd="446604"
+          MonolithOffset="42156032" MonolithLength="450560" SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.39444637298584" SampleEnd="320528"
+          MonolithOffset="42606592" MonolithLength="323584" SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.480773210525513" SampleEnd="531979"
+          MonolithOffset="42930176" MonolithLength="532480" SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_C2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.818995237350464" SampleEnd="375493"
+          MonolithOffset="43462656" MonolithLength="376832" SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_A6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.055322170257568" SampleEnd="405811"
+          MonolithOffset="43839488" MonolithLength="409600" SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.114883184432983"
+          SampleEnd="521206" MonolithOffset="44249088" MonolithLength="524288"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.343919992446899"
+          SampleEnd="342280" MonolithOffset="44773376" MonolithLength="344064"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.756714701652527"
+          SampleEnd="634695" MonolithOffset="45117440" MonolithLength="634880"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.712133646011353"
+          SampleEnd="363825" MonolithOffset="45752320" MonolithLength="364544"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.194040775299072"
+          SampleEnd="552765" MonolithOffset="46116864" MonolithLength="552960"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.067642688751221"
+          SampleEnd="647282" MonolithOffset="46669824" MonolithLength="651264"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.03578519821167"
+          SampleEnd="375033" MonolithOffset="47321088" MonolithLength="376832"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.00833535194397"
+          SampleEnd="349607" MonolithOffset="47697920" MonolithLength="352256"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.204966068267822"
+          SampleEnd="396900" MonolithOffset="48050176" MonolithLength="397312"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.657628536224365"
+          SampleEnd="627345" MonolithOffset="48447488" MonolithLength="630784"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.519840002059937"
+          SampleEnd="413965" MonolithOffset="49078272" MonolithLength="417792"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.708770751953125"
+          SampleEnd="516086" MonolithOffset="49496064" MonolithLength="516096"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_F#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.197277545928955"
+          SampleEnd="369498" MonolithOffset="50012160" MonolithLength="372736"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="100" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Ballad EP 1 WAVE/50X/NR_D#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.60228705406189"
+          SampleEnd="551250" MonolithOffset="50384896" MonolithLength="552960"
+          SampleRate="44100.0"/>
+</samplemap>

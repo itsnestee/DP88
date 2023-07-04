@@ -160,6 +160,7 @@ inline function onselKControl(component, value)
 		Button2.setValue(0);
 		Button3.setValue(0);
 		Button4.setValue(0);
+		Pianos.asSampler().loadSampleMap("C7");
 	
 	}
 	
@@ -169,6 +170,7 @@ inline function onselKControl(component, value)
 		Button2.setValue(1);
 		Button3.setValue(0);
 		Button4.setValue(0);
+		Pianos.asSampler().loadSampleMap("CFX Premium");
 	
 	}
 	
@@ -178,6 +180,7 @@ inline function onselKControl(component, value)
 		Button2.setValue(0);
 		Button3.setValue(1);
 		Button4.setValue(0);
+		Pianos.asSampler().loadSampleMap("PwerGrand");
 	
 	}
 	else if(value == 3)
@@ -186,6 +189,7 @@ inline function onselKControl(component, value)
 		Button2.setValue(0);
 		Button3.setValue(0);
 		Button4.setValue(1);
+		Pianos.asSampler().loadSampleMap("Upright CP");
 
 	}
 };
@@ -251,6 +255,7 @@ inline function onButton1Control(component, value)
 	if(value == 1)
 	{
 		selK.setValue(0);
+		Pianos.asSampler().loadSampleMap("C7");
 	}
 	
 	
@@ -266,6 +271,7 @@ inline function onButton2Control(component, value)
 	if(value == 1)
 	{
 		selK.setValue(1);
+		Pianos.asSampler().loadSampleMap("CFX Premium");
 	}
 	
 };
@@ -279,6 +285,7 @@ inline function onButton3Control(component, value)
 	if(value == 1)
 	{
 		selK.setValue(2);
+		Pianos.asSampler().loadSampleMap("PwerGrand");
 	}
 	
 };
@@ -293,6 +300,7 @@ inline function onButton4Control(component, value)
 	if(value == 1)
 	{
 		selK.setValue(3);
+		Pianos.asSampler().loadSampleMap("Upright CP");
 	}
 	
 };

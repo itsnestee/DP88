@@ -12,7 +12,7 @@
   <AdditionalDspLibraries value=""/>
   <OSXStaticLibs value=""/>
   <WindowsStaticLibFolder value=""/>
-  <ExtraDefinitionsWindows value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_SAMPLE_DIALOG_SHOW_INSTALL_BUTTON=0&#10;HISE_SAMPLE_DIALOG_SHOW_LOCATE_BUTTON=1"/>
+  <ExtraDefinitionsWindows value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_SAMPLE_DIALOG_SHOW_INSTALL_BUTTON=0&#10;HISE_SAMPLE_DIALOG_SHOW_LOCATE_BUTTON=1&#10;&#10;"/>
   <ExtraDefinitionsOSX value="ENABLE_ALL_PEAK_METERS=1&#10;HISE_SAMPLE_DIALOG_SHOW_INSTALL_BUTTON=0&#10;HISE_SAMPLE_DIALOG_SHOW_LOCATE_BUTTON=1&#10;"/>
   <ExtraDefinitionsIOS value=""/>
   <ExtraDefinitionsLinux value=""/>

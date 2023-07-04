@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Bells" RRGroupAmount="1.0" MicPositions=";">
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A3_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.693261623382568"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A4_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A5_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.956999540328979"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A6_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="2.727030515670776"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C3_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.571380615234375"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C4_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C5_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C6_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="2.604769468307495"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C7_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="4.008808612823486"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#3_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.520556807518005"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#4_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.136160373687744"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#5_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#6_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="3.051876783370972"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#3_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.067778944969177"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#4_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.452675461769104"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#5_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="2.385903596878052"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#6_X.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="2.61328649520874"/>
+</samplemap>

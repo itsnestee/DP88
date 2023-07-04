@@ -31,7 +31,7 @@ MainFX.setPaintRoutine(function(g)
 	//Gradient(LayerBlur later)
 	g.setColour(0x59000000);
 	g.fillRect([0, 0, 800, 195]);
-	g.setGradientFill([0x1CFFFFFF, 0, 0, 0x0DFFFFFF, 800, 195]);
+	g.setGradientFill([0x2CFFFFFF, 0, 0, 0x1DFFFFFF, 800, 195]);
 	g.fillRect([0, 0, 800, 195]);
 
 	

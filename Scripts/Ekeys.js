@@ -14,6 +14,8 @@ const var EKeys = Synth.getChildSynth("EKeys");
 const var Button10 = Content.getComponent("Button10");
 //ADSR
 const var AHDSREnvelope2 = Synth.getModulator("AHDSR Envelope2");
+const var ScriptFX1 = Synth.getEffect("Script FX1");
+const var LFOModulator1 = Synth.getModulator("LFO Modulator1");
 const var Knob6 = Content.getComponent("Knob6");
 const var Knob7 = Content.getComponent("Knob7");
 const var Knob8 = Content.getComponent("Knob8");
@@ -62,8 +64,8 @@ else
 	g.setColour(Colours.white);
 	g.setFont("Roboto", 8);
 	g.drawText("ATTACK", [20, 155, 30, 10]);
-	g.drawText("DECAY", [70, 155, 30, 10]);
-	g.drawText("SUSTAN", [115, 155, 40, 10]);
+	g.drawText("CHORUS", [60, 155, 50, 10]);
+	g.drawText("TREMOLO", [115, 155, 40, 10]);
 	g.drawText("RELEASE", [165, 155, 40, 10]);
 });
 	
@@ -160,6 +162,7 @@ inline function onselK1Control(component, value)
 		Button7.setValue(0);
 		Button8.setValue(0);
 		Button9.setValue(0);
+		EKeys.asSampler().loadSampleMap("Ballad 1");
 	
 	}
 	
@@ -169,6 +172,7 @@ inline function onselK1Control(component, value)
 		Button7.setValue(1);
 		Button8.setValue(0);
 		Button9.setValue(0);
+		EKeys.asSampler().loadSampleMap("Ballad 2");
 	
 	}
 	
@@ -178,6 +182,7 @@ inline function onselK1Control(component, value)
 		Button7.setValue(0);
 		Button8.setValue(1);
 		Button9.setValue(0);
+		EKeys.asSampler().loadSampleMap("Rhodes");
 	
 	}
 	else if(value == 3)
@@ -186,6 +191,7 @@ inline function onselK1Control(component, value)
 		Button7.setValue(0);
 		Button8.setValue(0);
 		Button9.setValue(1);
+		EKeys.asSampler().loadSampleMap("Rhodes Mk 1");
 
 	}
 };
@@ -210,18 +216,18 @@ inline function onKnob6Control(component, value)
 
 Knob6.setControlCallback(onKnob6Control);
 
-//Pdecay
+//PChorus
 inline function onKnob7Control(component, value)
 {
-	AHDSREnvelope2.setAttribute(5, value);
+	ScriptFX1.setAttribute(0, value);
 };
 
 Knob7.setControlCallback(onKnob7Control);
 
-//PSustain
+//PTremolo
 inline function onKnob8Control(component, value)
 {
-	AHDSREnvelope2.setAttribute(6, value);
+	LFOModulator1.setIntensity(value);
 };
 
 Knob8.setControlCallback(onKnob8Control);
@@ -251,6 +257,7 @@ inline function onButton6Control(component, value)
 	if(value == 1)
 	{
 		selK1.setValue(0);
+		EKeys.asSampler().loadSampleMap("Ballad 1");
 	}
 	
 	
@@ -266,6 +273,7 @@ inline function onButton7Control(component, value)
 	if(value == 1)
 	{
 		selK1.setValue(1);
+		EKeys.asSampler().loadSampleMap("Ballad 2");
 	}
 	
 };
@@ -279,6 +287,7 @@ inline function onButton8Control(component, value)
 	if(value == 1)
 	{
 		selK1.setValue(2);
+		EKeys.asSampler().loadSampleMap("Rhodes");
 	}
 	
 };
@@ -293,6 +302,7 @@ inline function onButton9Control(component, value)
 	if(value == 1)
 	{
 		selK1.setValue(3);
+		EKeys.asSampler().loadSampleMap("Rhodes Mk 1");
 	}
 	
 };

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Strings" RRGroupAmount="1.0" MicPositions=";">
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="94" LoKey="94" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.078570961952209"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#5_Galaxy.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.101702570915222"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.032679557800293"/>
+  <sample Root="30" LoKey="30" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011633634567261"/>
+  <sample Root="34" LoKey="34" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="90" LoKey="90" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.427376866340637"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011633634567261"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011633634567261"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.329636096954346"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163387298584"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="29" LoKey="29" HiKey="29" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="33" LoKey="33" HiKey="33" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163387298584"/>
+  <sample Root="93" LoKey="93" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.147718071937561"/>
+  <sample Root="89" LoKey="89" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.342705607414246"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163387298584"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="31" LoKey="31" HiKey="31" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.011633634567261"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="28" LoKey="28" HiKey="28" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="35" LoKey="35" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.084946155548096"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.139719009399414"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.181719422340393"/>
+  <sample Root="24" LoKey="24" HiKey="24" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="26" LoKey="26" HiKey="26" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="27" LoKey="27" HiKey="27" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="92" LoKey="92" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.210443258285522"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#5_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01622211933136"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#2_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163387298584"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B3_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F1_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="32" LoKey="32" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G4_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.019140958786011"/>
+  <sample Root="25" LoKey="25" HiKey="25" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#0_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.01163375377655"/>
+  <sample Root="96" LoKey="96" HiKey="108" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C6_Strings.wav" Duplicate="0"
+          Normalized="1" NormalizedPeak="1.138696670532227"/>
+</samplemap>

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Upright CP" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="412978" MonolithOffset="0" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="424830" MonolithOffset="413696" MonolithLength="425984"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="519140" MonolithOffset="839680" MonolithLength="520192"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="432639" MonolithOffset="1359872" MonolithLength="434176"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="411830" MonolithOffset="1794048" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="381282" MonolithOffset="2207744" MonolithLength="385024"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A6_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="261430" MonolithOffset="2592768" MonolithLength="262144"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="442011" MonolithOffset="2854912" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="446560" MonolithOffset="3297280" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="439784" MonolithOffset="3747840" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="445801" MonolithOffset="4190208" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="451911" MonolithOffset="4636672" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440197" MonolithOffset="5091328" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C6_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="331003" MonolithOffset="5533696" MonolithLength="331776"
+          SampleRate="44100.0"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C7_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="334931" MonolithOffset="5865472" MonolithLength="335872"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440953" MonolithOffset="6201344" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442402" MonolithOffset="6643712" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="445595" MonolithOffset="7090176" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="441689" MonolithOffset="7536640" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440495" MonolithOffset="7979008" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="449843" MonolithOffset="8421376" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#6_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="354936" MonolithOffset="8871936" MonolithLength="356352"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442172" MonolithOffset="9228288" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="451429" MonolithOffset="9670656" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="436201" MonolithOffset="10125312" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436613" MonolithOffset="10563584" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442056" MonolithOffset="11001856" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="441575" MonolithOffset="11444224" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#6_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="392674" MonolithOffset="11886592" MonolithLength="393216"
+          SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A0_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="412978" MonolithOffset="12279808" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A1_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="424830" MonolithOffset="12693504" MonolithLength="425984"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A2_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="519140" MonolithOffset="13119488" MonolithLength="520192"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A3_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="432639" MonolithOffset="13639680" MonolithLength="434176"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A4_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="411830" MonolithOffset="14073856" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A5_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="381282" MonolithOffset="14487552" MonolithLength="385024"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A6_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="261430" MonolithOffset="14872576" MonolithLength="262144"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C0_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="442011" MonolithOffset="15134720" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C1_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="446560" MonolithOffset="15577088" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C2_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="439784" MonolithOffset="16027648" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C3_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="445801" MonolithOffset="16470016" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C4_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="451911" MonolithOffset="16916480" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C5_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440197" MonolithOffset="17371136" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C6_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="331003" MonolithOffset="17813504" MonolithLength="331776"
+          SampleRate="44100.0"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C7_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="334931" MonolithOffset="18145280" MonolithLength="335872"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#0_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440953" MonolithOffset="18481152" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#1_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442402" MonolithOffset="18923520" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#2_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="445595" MonolithOffset="19369984" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#3_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="441689" MonolithOffset="19816448" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#4_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440495" MonolithOffset="20258816" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#5_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="449843" MonolithOffset="20701184" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#6_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="354936" MonolithOffset="21151744" MonolithLength="356352"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#0_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442172" MonolithOffset="21508096" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#1_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="451429" MonolithOffset="21950464" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#2_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436201" MonolithOffset="22405120" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#3_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436613" MonolithOffset="22843392" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#4_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442056" MonolithOffset="23281664" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#5_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="441575" MonolithOffset="23724032" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#6_W.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="392674" MonolithOffset="24166400" MonolithLength="393216"
+          SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A0_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="412978" MonolithOffset="24559616" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A1_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="424830" MonolithOffset="24973312" MonolithLength="425984"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A2_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="519140" MonolithOffset="25399296" MonolithLength="520192"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A3_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="432639" MonolithOffset="25919488" MonolithLength="434176"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A4_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="411830" MonolithOffset="26353664" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A5_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="381282" MonolithOffset="26767360" MonolithLength="385024"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A6_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="261430" MonolithOffset="27152384" MonolithLength="262144"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C0_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="442011" MonolithOffset="27414528" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C1_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="446560" MonolithOffset="27856896" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C2_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="439784" MonolithOffset="28307456" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C3_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="445801" MonolithOffset="28749824" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C4_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="451911" MonolithOffset="29196288" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C5_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="440197" MonolithOffset="29650944" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C6_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="331003" MonolithOffset="30093312" MonolithLength="331776"
+          SampleRate="44100.0"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C7_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="334931" MonolithOffset="30425088" MonolithLength="335872"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#0_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440953" MonolithOffset="30760960" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#1_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442402" MonolithOffset="31203328" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#2_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="445595" MonolithOffset="31649792" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#3_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="441689" MonolithOffset="32096256" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#4_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440495" MonolithOffset="32538624" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#5_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="449843" MonolithOffset="32980992" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#6_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="354936" MonolithOffset="33431552" MonolithLength="356352"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#0_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442172" MonolithOffset="33787904" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#1_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="451429" MonolithOffset="34230272" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#2_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436201" MonolithOffset="34684928" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#3_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436613" MonolithOffset="35123200" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#4_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442056" MonolithOffset="35561472" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#5_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="441575" MonolithOffset="36003840" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#6_Y.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="392674" MonolithOffset="36446208" MonolithLength="393216"
+          SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A0_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="412978" MonolithOffset="36839424" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A1_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="424830" MonolithOffset="37253120" MonolithLength="425984"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A2_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="519140" MonolithOffset="37679104" MonolithLength="520192"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A3_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="432639" MonolithOffset="38199296" MonolithLength="434176"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A4_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="411830" MonolithOffset="38633472" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A5_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="381282" MonolithOffset="39047168" MonolithLength="385024"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A6_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="261430" MonolithOffset="39432192" MonolithLength="262144"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C0_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="442011" MonolithOffset="39694336" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C1_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="446560" MonolithOffset="40136704" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C2_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="439784" MonolithOffset="40587264" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C3_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="445801" MonolithOffset="41029632" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C4_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="451911" MonolithOffset="41476096" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C5_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="440197" MonolithOffset="41930752" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C6_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="331003" MonolithOffset="42373120" MonolithLength="331776"
+          SampleRate="44100.0"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C7_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="334931" MonolithOffset="42704896" MonolithLength="335872"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#0_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="440953" MonolithOffset="43040768" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#1_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442402" MonolithOffset="43483136" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#2_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="445595" MonolithOffset="43929600" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#3_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="441689" MonolithOffset="44376064" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#4_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="440495" MonolithOffset="44818432" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#5_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="449843" MonolithOffset="45260800" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#6_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="354936" MonolithOffset="45711360" MonolithLength="356352"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#0_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442172" MonolithOffset="46067712" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#1_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="451429" MonolithOffset="46510080" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#2_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436201" MonolithOffset="46964736" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#3_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436613" MonolithOffset="47403008" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#4_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442056" MonolithOffset="47841280" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#5_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="441575" MonolithOffset="48283648" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#6_Z.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="392674" MonolithOffset="48726016" MonolithLength="393216"
+          SampleRate="44100.0"/>
+</samplemap>

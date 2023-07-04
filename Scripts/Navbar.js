@@ -202,7 +202,7 @@ ContactsTitle.setMouseCallback(function(event)
 
 	if(event.clicked)
 	{
-		Engine.openWebsite("https://www.instagram.com/deep.instruments/");
+		Engine.openWebsite("https://www.instagram.com/manu711__");
 	}
 	
 	this.repaint();

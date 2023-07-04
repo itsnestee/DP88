@@ -93,7 +93,7 @@ else if(obj.text.indexOf("Button1") != - 1)
 	 	
 	 	g.setColour(0xAAFFFFFF);
 	 	g.setFont("Roboto", 10);
-	 	g.drawAlignedText("SOUND1", [15, 2, 50, 15] , "centred");
+	 	g.drawAlignedText("C7", [15, 2, 65, 15] , "left");
 	 	
 	 	if(obj.value)
 	 	{
@@ -102,7 +102,7 @@ else if(obj.text.indexOf("Button1") != - 1)
 		 	
 		 	g.setColour(0xFFFFFFFF);
 		 	g.setFont("Roboto", 10);
-		 	g.drawAlignedText("SOUND1", [15, 2, 50, 15], "centred");
+		 	g.drawAlignedText("C7", [15, 2, 65, 15], "left");
 	 	}
 	 	
 	 	if(Button5.getValue() == 1)
@@ -121,8 +121,8 @@ else if(obj.text.indexOf("Button2") != - 1)
 	 	g.fillEllipse([3, 5, 8, 8]);
 	 	
 	 	g.setColour(0xAAFFFFFF);
-	 	g.setFont("Roboto", 10);
-	 	g.drawAlignedText("SOUND2", [15, 2, 50, 15] , "centred");
+	 	g.setFont("Roboto", 9);
+	 	g.drawAlignedText("CFX Premium", [15, 2, 75, 15] , "left");
 	 	
 	 	if(obj.value)
 	 	{
@@ -130,8 +130,8 @@ else if(obj.text.indexOf("Button2") != - 1)
 		 	g.fillEllipse([3, 5, 8, 8]);
 		 	
 		 	g.setColour(0xFFFFFFFF);
-		 	g.setFont("Roboto", 10);
-		 	g.drawAlignedText("SOUND2", [15, 2, 50, 15], "centred");
+		 	g.setFont("Roboto", 9);
+		 	g.drawAlignedText("CFX Premium", [15, 2, 75, 15], "left");
 	 	}
 	 	
 	 	if(Button5.getValue() == 1)
@@ -150,8 +150,8 @@ else if(obj.text.indexOf("Button3") != - 1)
 	 	g.fillEllipse([3, 5, 8, 8]);
 	 	
 	 	g.setColour(0xAAFFFFFF);
-	 	g.setFont("Roboto", 10);
-	 	g.drawAlignedText("SOUND3", [15, 2, 50, 15] , "centred");
+	 	g.setFont("Roboto", 9);
+	 	g.drawAlignedText("Power Grand", [15, 2, 65, 15] , "left");
 	 	
 	 	if(obj.value)
 	 	{
@@ -159,8 +159,8 @@ else if(obj.text.indexOf("Button3") != - 1)
 		 	g.fillEllipse([3, 5, 8, 8]);
 		 	
 		 	g.setColour(0xFFFFFFFF);
-		 	g.setFont("Roboto", 10);
-		 	g.drawAlignedText("SOUND3", [15, 2, 50, 15], "centred");
+		 	g.setFont("Roboto", 9);
+		 	g.drawAlignedText("Power Grand", [15, 2, 65, 15], "left");
 	 	}
 	 	
 	 	if(Button5.getValue() == 1)
@@ -179,7 +179,7 @@ else if(obj.text.indexOf("Button4") != - 1)
 	 	
 	 	g.setColour(0xAAFFFFFF);
 	 	g.setFont("Roboto", 10);
-	 	g.drawAlignedText("SOUND4", [15, 2, 50, 15] , "centred");
+	 	g.drawAlignedText("Upright CP", [15, 2, 65, 15] , "left");
 	 	
 	 	if(obj.value)
 	 	{
@@ -188,7 +188,7 @@ else if(obj.text.indexOf("Button4") != - 1)
 		 	
 		 	g.setColour(0xFFFFFFFF);
 		 	g.setFont("Roboto", 10);
-		 	g.drawAlignedText("SOUND4", [15, 2, 50, 15], "centred");
+		 	g.drawAlignedText("Upright CP", [15, 2, 65, 15], "left");
 	 	}
 	 	
 	 	if(Button5.getValue() == 1)
@@ -206,7 +206,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  	 	
  	 	g.setColour(0xAAFFFFFF);
  	 	g.setFont("Roboto", 10);
- 	 	g.drawAlignedText("SOUND1", [15, 2, 50, 15] , "centred");
+ 	 	g.drawAlignedText("Ballad 1", [15, 2, 70, 15] , "left");
  	 	
  	 	if(obj.value)
  	 	{
@@ -215,7 +215,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  		 	
  		 	g.setColour(0xFFFFFFFF);
  		 	g.setFont("Roboto", 10);
- 		 	g.drawAlignedText("SOUND1", [15, 2, 50, 15], "centred");
+ 		 	g.drawAlignedText("Ballad 1", [15, 2, 70, 15], "left");
  	 	}
  	 	
  	 	if(Button10.getValue() == 1)
@@ -235,7 +235,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  	 	
  	 	g.setColour(0xAAFFFFFF);
  	 	g.setFont("Roboto", 10);
- 	 	g.drawAlignedText("SOUND2", [15, 2, 50, 15] , "centred");
+ 	 	g.drawAlignedText("Ballad 2", [15, 2, 70, 15] , "left");
  	 	
  	 	if(obj.value)
  	 	{
@@ -244,7 +244,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  		 	
  		 	g.setColour(0xFFFFFFFF);
  		 	g.setFont("Roboto", 10);
- 		 	g.drawAlignedText("SOUND2", [15, 2, 50, 15], "centred");
+ 		 	g.drawAlignedText("Ballad 2", [15, 2, 70, 15], "left");
  	 	}
  	 	if(Button10.getValue() == 1)
  	 	 	 	 		 	{
@@ -262,7 +262,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  	 	
  	 	g.setColour(0xAAFFFFFF);
  	 	g.setFont("Roboto", 10);
- 	 	g.drawAlignedText("SOUND3", [15, 2, 50, 15] , "centred");
+ 	 	g.drawAlignedText("Rhodes", [15, 2, 70, 15] , "left");
  	 	
  	 	if(obj.value)
  	 	{
@@ -271,7 +271,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  		 	
  		 	g.setColour(0xFFFFFFFF);
  		 	g.setFont("Roboto", 10);
- 		 	g.drawAlignedText("SOUND3", [15, 2, 50, 15], "centred");
+ 		 	g.drawAlignedText("Rhodes", [15, 2, 70, 15], "left");
  	 	}
  	 	if(Button10.getValue() == 1)
  	 	 	 	 		 	{
@@ -289,7 +289,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  	 	
  	 	g.setColour(0xAAFFFFFF);
  	 	g.setFont("Roboto", 10);
- 	 	g.drawAlignedText("SOUND4", [15, 2, 50, 15] , "centred");
+ 	 	g.drawAlignedText("Rhodes Mk 1", [15, 2, 70, 15] , "left");
  	 	
  	 	if(obj.value)
  	 	{
@@ -298,7 +298,7 @@ else if(obj.text.indexOf("Button4") != - 1)
  		 	
  		 	g.setColour(0xFFFFFFFF);
  		 	g.setFont("Roboto", 10);
- 		 	g.drawAlignedText("SOUND4", [15, 2, 50, 15], "centred");
+ 		 	g.drawAlignedText("Rhodes Mk 1", [15, 2, 70, 15], "left");
  	 	}
  	 	if(Button10.getValue() == 1)
  	 	 	 	 		 	{
@@ -318,7 +318,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 	 	
   	 	 	g.setColour(0xAAFFFFFF);
   	 	 	g.setFont("Roboto", 10);
-  	 	 	g.drawAlignedText("SOUND1", [15, 2, 50, 15] , "centred");
+  	 	 	g.drawAlignedText("Bells", [15, 2, 70, 15] , "left");
   	 	 	
   	 	 	if(obj.value)
   	 	 	{
@@ -327,7 +327,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 		 	
   	 		 	g.setColour(0xFFFFFFFF);
   	 		 	g.setFont("Roboto", 10);
-  	 		 	g.drawAlignedText("SOUND1", [15, 2, 50, 15], "centred");
+  	 		 	g.drawAlignedText("Bells", [15, 2, 70, 15], "left");
   	 	 	}
   	 	 	if(Button15.getValue() == 1)
   	 	 	 	 	 	 	 		 	{
@@ -345,7 +345,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 	 	
   	 	 	g.setColour(0xAAFFFFFF);
   	 	 	g.setFont("Roboto", 10);
-  	 	 	g.drawAlignedText("SOUND2", [15, 2, 50, 15] , "centred");
+  	 	 	g.drawAlignedText("LS Organ", [15, 2, 70, 15] , "left");
   	 	 	
   	 	 	if(obj.value)
   	 	 	{
@@ -354,7 +354,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 		 	
   	 		 	g.setColour(0xFFFFFFFF);
   	 		 	g.setFont("Roboto", 10);
-  	 		 	g.drawAlignedText("SOUND2", [15, 2, 50, 15], "centred");
+  	 		 	g.drawAlignedText("LS Organ", [15, 2, 70, 15], "left");
   	 	 	}
   	 	 	if(Button15.getValue() == 1)
   	 	 	 	 	 	 	 		 	{
@@ -372,7 +372,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 	 	
   	 	 	g.setColour(0xAAFFFFFF);
   	 	 	g.setFont("Roboto", 10);
-  	 	 	g.drawAlignedText("SOUND3", [15, 2, 50, 15] , "centred");
+  	 	 	g.drawAlignedText("Strings", [15, 2, 70, 15] , "left");
   	 	 	
   	 	 	if(obj.value)
   	 	 	{
@@ -381,7 +381,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 		 	
   	 		 	g.setColour(0xFFFFFFFF);
   	 		 	g.setFont("Roboto", 10);
-  	 		 	g.drawAlignedText("SOUND3", [15, 2, 50, 15], "centred");
+  	 		 	g.drawAlignedText("Strings", [15, 2, 70, 15], "left");
   	 	 	}
   	 	 	if(Button15.getValue() == 1)
   	 	 	 	 	 	 	 		 	{
@@ -399,7 +399,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 	 	
   	 	 	g.setColour(0xAAFFFFFF);
   	 	 	g.setFont("Roboto", 10);
-  	 	 	g.drawAlignedText("SOUND4", [15, 2, 50, 15] , "centred");
+  	 	 	g.drawAlignedText("Worship", [15, 2, 70, 15] , "left");
   	 	 	
   	 	 	if(obj.value)
   	 	 	{
@@ -408,7 +408,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 		 	
   	 		 	g.setColour(0xFFFFFFFF);
   	 		 	g.setFont("Roboto", 10);
-  	 		 	g.drawAlignedText("SOUND4", [15, 2, 50, 15], "centred");
+  	 		 	g.drawAlignedText("Worship", [15, 2, 70, 15], "left");
   	 	 	}
   	 	 	if(Button15.getValue() == 1)
   	 	 	 	 	 	 	 		 	{
@@ -418,3 +418,36 @@ else if(obj.text.indexOf("Button4") != - 1)
   	  	}	
  	
 });
+
+//Alert Window
+laf.registerFunction("drawAlertWindow", function(g, obj)
+{
+    
+    g.fillAll(0xFF121212);
+    
+    var a = [0, 0, obj.area[2], 30];
+    g.setColour(0xFF000000);
+    g.fillRect(a);
+    g.setColour(Colours.white);
+    g.drawRect(obj.area, 0.3);
+    g.setFont("Roboto", 13);
+    g.drawAlignedText(obj.title, a, "centred");
+});
+
+laf.registerFunction("drawDialogButton", function(g, obj)
+{
+    //g.fillAll(0x22000000);
+    
+    g.setColour(0xFF191919);
+    g.fillRoundedRectangle(obj.area, 5.0);
+   
+       
+    g.setFont("Roboto", 9.0);
+        
+    g.setColour(0x99FAF9F6);
+    g.drawAlignedText(obj.text, obj.area, "centred");
+});
+
+
+
+

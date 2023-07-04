@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Bells" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.693261623382568" SampleEnd="432639"
+          MonolithOffset="0" MonolithLength="434176" SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291" SampleEnd="411830"
+          MonolithOffset="434176" MonolithLength="413696" SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.956999540328979" SampleEnd="381282"
+          MonolithOffset="847872" MonolithLength="385024" SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_A6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.727030515670776" SampleEnd="261430"
+          MonolithOffset="1232896" MonolithLength="262144" SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.571380615234375" SampleEnd="445801"
+          MonolithOffset="1495040" MonolithLength="446464" SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291" SampleEnd="451911"
+          MonolithOffset="1941504" MonolithLength="454656" SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291" SampleEnd="440197"
+          MonolithOffset="2396160" MonolithLength="442368" SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.604769468307495" SampleEnd="331003"
+          MonolithOffset="2838528" MonolithLength="331776" SampleRate="44100.0"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_C7_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.008808612823486" SampleEnd="334931"
+          MonolithOffset="3170304" MonolithLength="335872" SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.520556807518005" SampleEnd="441689"
+          MonolithOffset="3506176" MonolithLength="442368" SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.136160373687744" SampleEnd="440495"
+          MonolithOffset="3948544" MonolithLength="442368" SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428" SampleEnd="449843"
+          MonolithOffset="4390912" MonolithLength="450560" SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_D#6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.051876783370972" SampleEnd="354936"
+          MonolithOffset="4841472" MonolithLength="356352" SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.067778944969177" SampleEnd="436613"
+          MonolithOffset="5197824" MonolithLength="438272" SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.452675461769104" SampleEnd="442056"
+          MonolithOffset="5636096" MonolithLength="442368" SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.385903596878052" SampleEnd="441575"
+          MonolithOffset="6078464" MonolithLength="442368" SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Bells/60/LLS_F#6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.61328649520874" SampleEnd="392674"
+          MonolithOffset="6520832" MonolithLength="393216" SampleRate="44100.0"/>
+</samplemap>

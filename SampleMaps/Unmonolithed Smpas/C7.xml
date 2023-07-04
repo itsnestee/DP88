@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="C7" RRGroupAmount="1.0" MicPositions=";">
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_A0_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_A1_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_A2_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_A3_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.155145049095154"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_A4_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.249828338623047"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_A5_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.347756385803223"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_A6_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.288658142089844"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C0_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C1_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C2_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C3_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.047168612480164"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C4_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.193082094192505"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C5_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.241400241851807"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C6_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.347036123275757"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_C7_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.290180325508118"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_D#0_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_D#1_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_D#2_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_D#3_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.006140947341919"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_D#4_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.202363014221191"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_D#5_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.353546142578125"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_D#6_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.39634382724762"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_F#0_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_F#1_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_F#2_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_F#3_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.160052418708801"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_F#4_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.278003096580505"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_F#5_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.407741546630859"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="30" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/40U/PS_F#6_U.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.292572259902954"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_A0_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_A1_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_A2_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_A3_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_A4_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_A5_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_A6_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C0_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C1_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C2_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C3_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C4_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C5_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C6_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_C7_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_D#0_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_D#1_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_D#2_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_D#3_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_D#4_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_D#5_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_D#6_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_F#0_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_F#1_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_F#2_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_F#3_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_F#4_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_F#5_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="31" HiVel="70" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/70v/PS_F#6_V.wav" Duplicate="1"
+          Volume="-1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_A0_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_A1_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_A2_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_A3_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_A4_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_A5_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_A6_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C0_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C1_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C2_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C3_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C4_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C5_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C6_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_C7_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_D#0_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_D#1_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_D#2_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_D#3_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_D#4_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_D#5_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_D#6_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_F#0_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_F#1_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_F#2_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_F#3_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_F#4_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_F#5_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="71" HiVel="104" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/90W/PS_F#6_W.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_A0_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_A1_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_A2_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_A3_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_A4_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_A5_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_A6_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C0_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C1_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C2_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C3_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C4_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C5_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C6_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_C7_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_D#0_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_D#1_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_D#2_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_D#3_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_D#4_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_D#5_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_D#6_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_F#0_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_F#1_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_F#2_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_F#3_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_F#4_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_F#5_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="105" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/C7/110Y/PS_F#6_Y.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011638998985291"/>
+</samplemap>

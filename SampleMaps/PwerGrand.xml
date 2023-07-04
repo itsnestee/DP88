@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PwerGrand" RRGroupAmount="1.0" MicPositions=";" CrossfadeGamma="1.0"
+           SaveMode="2">
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/A0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.551230192184448"
+          SampleEnd="476280" MonolithOffset="0" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/A1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.378111600875854"
+          SampleEnd="476280" MonolithOffset="479232" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/A2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.340265035629272"
+          SampleEnd="476280" MonolithOffset="958464" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/A3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.679317235946655"
+          SampleEnd="476280" MonolithOffset="1437696" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/A4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.55208683013916"
+          SampleEnd="476280" MonolithOffset="1916928" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/A5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.384424686431885"
+          SampleEnd="476280" MonolithOffset="2396160" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/A6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.987600326538086"
+          SampleEnd="476280" MonolithOffset="2875392" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="22" HiKey="26" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/C0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.695623636245728"
+          SampleEnd="476280" MonolithOffset="3354624" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/C1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.299508810043335"
+          SampleEnd="476280" MonolithOffset="3833856" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/C2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.461908340454102"
+          SampleEnd="476280" MonolithOffset="4313088" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/C3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.36427116394043"
+          SampleEnd="476280" MonolithOffset="4792320" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/C4__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.243714094161987"
+          SampleEnd="476280" MonolithOffset="5271552" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/C5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.205321311950684"
+          SampleEnd="476280" MonolithOffset="5750784" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/C6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.243392944335938"
+          SampleEnd="476280" MonolithOffset="6230016" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/D#0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.711460590362549"
+          SampleEnd="476280" MonolithOffset="6709248" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/D#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.764065742492676"
+          SampleEnd="476280" MonolithOffset="7188480" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/D#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.093071460723877"
+          SampleEnd="476280" MonolithOffset="7667712" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/D#3__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.74830150604248"
+          SampleEnd="476280" MonolithOffset="8146944" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/D#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.380584001541138"
+          SampleEnd="476280" MonolithOffset="8626176" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/D#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.02176308631897"
+          SampleEnd="476280" MonolithOffset="9105408" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/D#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.94041633605957"
+          SampleEnd="476280" MonolithOffset="9584640" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/F#0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.56600284576416"
+          SampleEnd="476280" MonolithOffset="10063872" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/F#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.91827654838562"
+          SampleEnd="476280" MonolithOffset="10543104" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/F#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.076807498931885"
+          SampleEnd="476280" MonolithOffset="11022336" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/F#3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.736595869064331"
+          SampleEnd="476280" MonolithOffset="11501568" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/F#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.459824800491333"
+          SampleEnd="476280" MonolithOffset="11980800" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/F#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.890358924865723"
+          SampleEnd="476280" MonolithOffset="12460032" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="35" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 30/F#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.957400798797607"
+          SampleEnd="476280" MonolithOffset="12939264" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/A0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="13418496" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/A1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="13897728" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/A2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.072391629219055"
+          SampleEnd="476280" MonolithOffset="14376960" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/A3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.102557182312012"
+          SampleEnd="476280" MonolithOffset="14856192" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/A4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.445243239402771"
+          SampleEnd="476280" MonolithOffset="15335424" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/A5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.458559632301331"
+          SampleEnd="476280" MonolithOffset="15814656" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/A6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.3728266954422"
+          SampleEnd="476280" MonolithOffset="16293888" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="22" HiKey="26" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/C0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="16773120" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/C1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="17252352" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/C2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="17731584" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/C3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.100483655929565"
+          SampleEnd="476280" MonolithOffset="18210816" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/C4__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.213090419769287"
+          SampleEnd="476280" MonolithOffset="18690048" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/C5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.205148935317993"
+          SampleEnd="476280" MonolithOffset="19169280" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/C6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.40719747543335"
+          SampleEnd="476280" MonolithOffset="19648512" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/D#0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="20127744" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/D#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="20606976" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/D#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.185442447662354"
+          SampleEnd="476280" MonolithOffset="21086208" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/D#3__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="21565440" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/D#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.197748422622681"
+          SampleEnd="476280" MonolithOffset="22044672" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/D#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.256489872932434"
+          SampleEnd="476280" MonolithOffset="22523904" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/D#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.367099165916443"
+          SampleEnd="476280" MonolithOffset="23003136" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/F#0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="23482368" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/F#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="23961600" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/F#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.168324589729309"
+          SampleEnd="476280" MonolithOffset="24440832" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/F#3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="24920064" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/F#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.201305150985718"
+          SampleEnd="476280" MonolithOffset="25399296" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/F#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.22873854637146"
+          SampleEnd="476280" MonolithOffset="25878528" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="36" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 70/F#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.341082096099854"
+          SampleEnd="476280" MonolithOffset="26357760" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/A0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="26836992" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/A1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="27316224" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/A2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="27795456" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/A3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="28274688" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/A4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="28753920" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/A5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="29233152" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/A6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="29712384" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="22" HiKey="26" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/C0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="30191616" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/C1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="30670848" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/C2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="31150080" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/C3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="31629312" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/C4__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="32108544" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/C5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="32587776" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/C6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="33067008" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/D#0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="33546240" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/D#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="34025472" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/D#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="34504704" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/D#3__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="34983936" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/D#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="35463168" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/D#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="35942400" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/D#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="36421632" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/F#0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="36900864" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/F#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="37380096" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/F#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="37859328" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/F#3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="38338560" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/F#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="38817792" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/F#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="39297024" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="96" HiVel="116" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 90/F#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="39776256" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/A0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="40255488" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/A1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="40734720" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/A2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="41213952" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/A3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="41693184" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/A4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="42172416" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/A5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="42651648" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="105" LoKey="105" HiKey="124" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/A6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="43130880" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="22" HiKey="26" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/C0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="43610112" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/C1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="44089344" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/C2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="44568576" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/C3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="45047808" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/C4__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="45527040" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/C5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="46006272" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/C6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="46485504" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/D#0__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="46964736" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/D#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="47443968" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/D#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="47923200" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/D#3__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="48402432" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/D#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="48881664" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/D#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="49360896" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/D#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="49840128" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/F#0___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="50319360" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/F#1__PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="50798592" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/F#2___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="51277824" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/F#3___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="51757056" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/F#4___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="52236288" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/F#5___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="476280" MonolithOffset="52715520" MonolithLength="479232"
+          SampleRate="44100.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="117" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Power Grand WAVE/PW 110/F#6___PW.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="476280" MonolithOffset="53194752" MonolithLength="479232"
+          SampleRate="44100.0"/>
+</samplemap>

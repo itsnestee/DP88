@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Ballad 2" RRGroupAmount="1.0" MicPositions=";">
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_F#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.319162607192993"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_D#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.171834230422974"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_D#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.679721117019653"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_F#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.090267896652222"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_F#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.180318474769592"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_D#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.685423254966736"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_D#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.981256365776062"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_D#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.57561182975769"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_F#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.370300650596619"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_F#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.086184024810791"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_D#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.442126631736755"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_F#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.510672688484192"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_F#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.130827903747559"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_D#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.696856737136841"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.018728494644165"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_A6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.29241931438446"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_A4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.673629879951477"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.880084872245789"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.673544406890869"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_A0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.803809285163879"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_A2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.688201904296875"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.490402936935425"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_A5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.743071436882019"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.015128135681152"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.329870104789734"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_A3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.445307016372681"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C7_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.541008234024048"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_C5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.673971891403198"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="34" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/40/NSL_A1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.682481050491333"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_D#6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_F#3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_F#1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_D#4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_D#0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_F#5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_D#2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_F#0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_D#5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_F#2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_F#6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_D#3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_D#1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_F#4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_A6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_A4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_A0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_A2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_A5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C7_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_A3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_A1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="35" HiVel="89" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/70/NSL_C5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_A3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C7_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_A1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_A5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_A0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_A2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_A6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_A4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_C0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_D#3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_F#6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_F#4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_D#1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_D#5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_F#0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_F#2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_F#5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_D#0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_D#2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_F#3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_D#6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_D#4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="90" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Ballad 2/90/NSL_F#1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+</samplemap>

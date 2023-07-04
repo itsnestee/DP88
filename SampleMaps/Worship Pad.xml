@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Worship Pad" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_D#2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.300800561904907" SampleEnd="445595"
+          MonolithOffset="0" MonolithLength="446464" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="131230" LoopEnd="316717" LoopXFade="63004"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_F#5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.371227979660034" SampleEnd="441575"
+          MonolithOffset="446464" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="95626" LoopEnd="373456" LoopXFade="48047"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_D#0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="8.361316680908203" SampleEnd="440953"
+          MonolithOffset="888832" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="88116" LoopEnd="390159"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_D#4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.871912956237793" SampleEnd="440495"
+          MonolithOffset="1331200" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="111662" LoopEnd="332949" LoopXFade="49108"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_F#1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.031267404556274" SampleEnd="451429"
+          MonolithOffset="1773568" MonolithLength="454656" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="95597" LoopEnd="300603" LoopXFade="46407"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_F#3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.480787754058838" SampleEnd="436613"
+          MonolithOffset="2228224" MonolithLength="438272" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="121201" LoopEnd="361433" LoopXFade="59478"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_D#6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.314586400985718" SampleEnd="354936"
+          MonolithOffset="2666496" MonolithLength="356352" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="118803" LoopEnd="246322" LoopXFade="55988"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_F#4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.370846509933472" SampleEnd="442056"
+          MonolithOffset="3022848" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="140450" LoopEnd="401860" LoopXFade="64571"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_D#1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.463088989257812" SampleEnd="442402"
+          MonolithOffset="3465216" MonolithLength="446464" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="109580" LoopEnd="382157"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_D#3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.109355449676514" SampleEnd="441689"
+          MonolithOffset="3911680" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="139867" LoopEnd="358142" LoopXFade="65591"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_F#6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.832962989807129" SampleEnd="392674"
+          MonolithOffset="4354048" MonolithLength="393216" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="142811" LoopEnd="328667" LoopXFade="66752"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_F#2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.447016716003418" SampleEnd="436201"
+          MonolithOffset="4747264" MonolithLength="438272" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="119033" LoopEnd="375423" LoopXFade="55110"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_D#5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.631122589111328" SampleEnd="449843"
+          MonolithOffset="5185536" MonolithLength="450560" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="68417" LoopEnd="326284" LoopXFade="32081"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_F#0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="6.045756340026855" SampleEnd="442172"
+          MonolithOffset="5636096" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="121155" LoopEnd="343003" LoopXFade="50489"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="9.902689933776855" SampleEnd="442011"
+          MonolithOffset="6078464" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="107588" LoopEnd="344126" LoopXFade="53759"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_A4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.021205902099609" SampleEnd="411830"
+          MonolithOffset="6520832" MonolithLength="413696" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="134508" LoopEnd="336777" LoopXFade="57314"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_A6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.059967994689941" SampleEnd="261430"
+          MonolithOffset="6934528" MonolithLength="262144" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="50736" LoopEnd="144025" LoopXFade="24666"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.156214952468872" SampleEnd="439784"
+          MonolithOffset="7196672" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="106685" LoopEnd="377528"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C6_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.917638778686523" SampleEnd="331003"
+          MonolithOffset="7639040" MonolithLength="331776" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="73222" LoopEnd="248785" LoopXFade="36951"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_A2_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.899566411972046" SampleEnd="519140"
+          MonolithOffset="7970816" MonolithLength="520192" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="153826" LoopEnd="476915" LoopXFade="64131"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_A0_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.654545307159424" SampleEnd="412978"
+          MonolithOffset="8491008" MonolithLength="413696" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="105744" LoopEnd="380358" LoopXFade="46037"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C4_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.419150352478027" SampleEnd="451911"
+          MonolithOffset="8904704" MonolithLength="454656" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="83033" LoopEnd="286349" LoopXFade="37854"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="3.56988787651062" SampleEnd="445801"
+          MonolithOffset="9359360" MonolithLength="446464" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="157753" LoopEnd="414306" LoopXFade="63885"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.338983058929443" SampleEnd="446560"
+          MonolithOffset="9805824" MonolithLength="450560" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="172004" LoopEnd="408248" LoopXFade="80664"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_A5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.425821781158447" SampleEnd="381282"
+          MonolithOffset="10256384" MonolithLength="385024" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="99432" LoopEnd="321605" LoopXFade="47334"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_A1_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.121318101882935" SampleEnd="424830"
+          MonolithOffset="10641408" MonolithLength="425984" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="138556" LoopEnd="366248" LoopXFade="61493"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C5_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="2.772719621658325" SampleEnd="440197"
+          MonolithOffset="11067392" MonolithLength="442368" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="139249" LoopEnd="353449" LoopXFade="63065"/>
+  <sample Root="108" LoKey="108" HiKey="115" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_C7_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="5.025766849517822" SampleEnd="334931"
+          MonolithOffset="11509760" MonolithLength="335872" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="102937" LoopEnd="259545" LoopXFade="51480"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Worship Pad/60/WP_A3_X.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="4.558074951171875" SampleEnd="432639"
+          MonolithOffset="11845632" MonolithLength="434176" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="168649" LoopEnd="370660" LoopXFade="76353"/>
+</samplemap>

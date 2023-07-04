@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Rhodes Mk 1" RRGroupAmount="1.0" MicPositions=";">
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_A6_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="0.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_F#3_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.496119022369385"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C2_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.415709018707275"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_D#6_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C0_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.895747780799866"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_D#4_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.285927295684814"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_F#1_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_A4_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.050660490989685"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_F#5_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_A0_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.542531609535217"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C4_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.375015735626221"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_D#0_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.768471002578735"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C6_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_D#2_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.214169263839722"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_A2_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.069556474685669"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C1_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.210714936256409"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_D#5_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_A5_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_F#0_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.259774684906006"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_F#2_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.207280278205872"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C3_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.190524578094482"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C7_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="0.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_D#3_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.564254403114319"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_F#6_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_A3_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.760679125785828"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_A1_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.012733340263367"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_F#4_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.144933581352234"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_C5_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.036109566688538"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/40U/RM_D#1_U.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_D#4_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C0_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_F#1_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_A4_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_A6_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="0.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_F#3_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_D#6_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C2_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_D#2_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C6_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_A2_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_F#5_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_A0_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_D#0_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C4_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_F#2_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C3_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_D#5_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C1_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_A5_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_F#0_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_A1_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_F#4_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_D#1_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C5_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_D#3_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_C7_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="0.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_F#6_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="41" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/70V/RM_A3_V.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C7_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="0.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_D#3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_F#6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_A3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_A1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_F#4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_D#1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_D#5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_A5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_F#0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_F#2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_F#5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_A0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_D#0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_D#2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_A2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_A6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="0.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_F#3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_D#6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_C0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_D#4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_F#1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="91" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}E. piano/Rhodes Mark I/90Z/RM_A4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+</samplemap>

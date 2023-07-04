@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Strings" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="0" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="99593" LoopEnd="405727"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="548864" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="136840" LoopEnd="522395"/>
+  <sample Root="38" LoKey="38" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="1097728" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="141046" LoopEnd="289755"/>
+  <sample Root="36" LoKey="36" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="1646592" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="141959" LoopEnd="364632"/>
+  <sample Root="94" LoKey="94" HiKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.078570961952209" SampleEnd="547446"
+          MonolithOffset="2195456" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="198412" LoopEnd="464932" LoopXFade="104125"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="2744320" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="158876" LoopEnd="481997"/>
+  <sample Root="87" LoKey="87" HiKey="87" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#5_Galaxy.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.101702570915222" SampleEnd="547447"
+          MonolithOffset="3293184" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="193018" LoopEnd="503937" LoopXFade="92375"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.032679557800293" SampleEnd="547447"
+          MonolithOffset="3842048" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="230613" LoopEnd="523440" LoopXFade="104203"/>
+  <sample Root="30" LoKey="30" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="4390912" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="52656" LoopEnd="379259"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="4939776" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="24334" LoopEnd="492793"/>
+  <sample Root="40" LoKey="40" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011633634567261" SampleEnd="547447"
+          MonolithOffset="5488640" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="141737" LoopEnd="402941"/>
+  <sample Root="34" LoKey="34" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="6037504" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="121305" LoopEnd="399110"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="6586368" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="83972" LoopEnd="457618"/>
+  <sample Root="90" LoKey="90" HiKey="90" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.427376866340637" SampleEnd="547447"
+          MonolithOffset="7135232" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="270665" LoopEnd="488962" LoopXFade="96621"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="7684096" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="126521" LoopEnd="481997"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="8232960" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="135011" LoopEnd="435678"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011633634567261" SampleEnd="547446"
+          MonolithOffset="8781824" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="120738" LoopEnd="431499"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011633634567261" SampleEnd="547447"
+          MonolithOffset="9330688" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="119167" LoopEnd="534236"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="9879552" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="182413" LoopEnd="527968"/>
+  <sample Root="37" LoKey="37" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="10428416" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="279516" LoopEnd="537371"/>
+  <sample Root="91" LoKey="91" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.329636096954346" SampleEnd="547447"
+          MonolithOffset="10977280" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="276412" LoopEnd="496624" LoopXFade="109253"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163387298584" SampleEnd="547447"
+          MonolithOffset="11526144" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="83738" LoopEnd="341646"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="12075008" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="142050" LoopEnd="472245"/>
+  <sample Root="29" LoKey="29" HiKey="29" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="12623872" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="162060" LoopEnd="430105"/>
+  <sample Root="33" LoKey="33" HiKey="33" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="13172736" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="108290" LoopEnd="428016"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="13721600" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="89537" LoopEnd="486176"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="14270464" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="116528" LoopEnd="417220"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163387298584" SampleEnd="547447"
+          MonolithOffset="14819328" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="133953" LoopEnd="492096"/>
+  <sample Root="93" LoKey="93" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.147718071937561" SampleEnd="547446"
+          MonolithOffset="15368192" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="210721" LoopEnd="452743" LoopXFade="101661"/>
+  <sample Root="89" LoKey="89" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.342705607414246" SampleEnd="547446"
+          MonolithOffset="15917056" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="228890" LoopEnd="439857" LoopXFade="101546"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="16465920" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="96373" LoopEnd="487221"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="17014784" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="103454" LoopEnd="488962"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163387298584" SampleEnd="547447"
+          MonolithOffset="17563648" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="32344" LoopEnd="288014"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="18112512" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="114508" LoopEnd="451698"/>
+  <sample Root="39" LoKey="39" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="18661376" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="126305" LoopEnd="303337"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="19210240" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="182801" LoopEnd="471549" LoopXFade="77164"/>
+  <sample Root="31" LoKey="31" HiKey="31" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="19759104" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="296521" LoopEnd="520306"/>
+  <sample Root="86" LoKey="86" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="20307968" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="173102" LoopEnd="488614" LoopXFade="80312"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="20856832" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="189939" LoopEnd="421399" LoopXFade="88265"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="21405696" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="148641" LoopEnd="388314"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="21954560" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="122729" LoopEnd="504982"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.011633634567261" SampleEnd="547447"
+          MonolithOffset="22503424" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="123770" LoopEnd="498365"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="23052288" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="125002" LoopEnd="464932"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="23601152" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="197549" LoopEnd="512296"/>
+  <sample Root="28" LoKey="28" HiKey="28" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="24150016" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="136077" LoopEnd="458663"/>
+  <sample Root="35" LoKey="35" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="24698880" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="190084" LoopEnd="414434"/>
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="25247744" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="15431" LoopEnd="449957"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="25796608" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="77582" LoopEnd="485828"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.084946155548096" SampleEnd="547447"
+          MonolithOffset="26345472" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="231750" LoopEnd="521002" LoopXFade="105977"/>
+  <sample Root="95" LoKey="95" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.139719009399414" SampleEnd="547447"
+          MonolithOffset="26894336" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="207581" LoopEnd="533192" LoopXFade="103077"/>
+  <sample Root="88" LoKey="88" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.181719422340393" SampleEnd="547446"
+          MonolithOffset="27443200" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="229871" LoopEnd="494883" LoopXFade="97814"/>
+  <sample Root="24" LoKey="24" HiKey="24" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="27992064" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="182361" LoopEnd="485131"/>
+  <sample Root="26" LoKey="26" HiKey="26" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="28540928" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="179044" LoopEnd="408513"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="29089792" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="112003" LoopEnd="502544"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="29638656" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="112488" LoopEnd="479559"/>
+  <sample Root="27" LoKey="27" HiKey="27" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D#0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="30187520" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="154368" LoopEnd="431499"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="30736384" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="71647" LoopEnd="531799"/>
+  <sample Root="92" LoKey="92" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.210443258285522" SampleEnd="547446"
+          MonolithOffset="31285248" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="270823" LoopEnd="523440" LoopXFade="118669"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="31834112" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="151223" LoopEnd="460404"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#5_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01622211933136" SampleEnd="547446"
+          MonolithOffset="32382976" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="184579" LoopEnd="460753" LoopXFade="77286"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /D3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="32931840" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="99566" LoopEnd="394583"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="33480704" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="194699" LoopEnd="502544"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F#2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="34029568" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="106587" LoopEnd="402941"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="34578432" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="229246" LoopEnd="523788" LoopXFade="109933"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A#2_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="35127296" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="115402" LoopEnd="446822"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /E3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163387298584" SampleEnd="547446"
+          MonolithOffset="35676160" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="111398" LoopEnd="458663"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /B3_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="36225024" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="130173" LoopEnd="424882"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /A1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="36773888" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="63604" LoopEnd="308213"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /F1_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="37322752" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="147489" LoopEnd="362194"/>
+  <sample Root="32" LoKey="32" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G#0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547447"
+          MonolithOffset="37871616" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="123595" LoopEnd="523788"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /G4_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.019140958786011" SampleEnd="547446"
+          MonolithOffset="38420480" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="174594" LoopEnd="460753"/>
+  <sample Root="25" LoKey="25" HiKey="25" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C#0_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.01163375377655" SampleEnd="547446"
+          MonolithOffset="38969344" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="98825" LoopEnd="286969"/>
+  <sample Root="96" LoKey="96" HiKey="108" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Strings /C6_Strings.wav" Duplicate="1"
+          Normalized="1" NormalizedPeak="1.138696670532227" SampleEnd="547446"
+          MonolithOffset="39518208" MonolithLength="548864" SampleRate="44100.0"
+          LoopEnabled="1" LoopStart="105609" LoopEnd="439509" LoopXFade="51773"/>
+</samplemap>

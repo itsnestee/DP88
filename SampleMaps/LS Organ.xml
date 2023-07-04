@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="LS Organ" RRGroupAmount="1.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_A1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="424830" MonolithOffset="0" MonolithLength="425984"
+          SampleRate="44100.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_F#3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="436613" MonolithOffset="425984" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_C5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="440197" MonolithOffset="864256" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_F#1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="451429" MonolithOffset="1306624" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_A3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="432639" MonolithOffset="1761280" MonolithLength="434176"
+          SampleRate="44100.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_D#4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="440495" MonolithOffset="2195456" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_D#0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="440953" MonolithOffset="2637824" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_C3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="445801" MonolithOffset="3080192" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_F#5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="441575" MonolithOffset="3526656" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_C1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="446560" MonolithOffset="3969024" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_A5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="381282" MonolithOffset="4419584" MonolithLength="385024"
+          SampleRate="44100.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_D#2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="445595" MonolithOffset="4804608" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_F#0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442172" MonolithOffset="5251072" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="96" LoKey="96" HiKey="122" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_C6_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="331003" MonolithOffset="5693440" MonolithLength="331776"
+          SampleRate="44100.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_A2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="519140" MonolithOffset="6025216" MonolithLength="520192"
+          SampleRate="44100.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_D#5_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="449843" MonolithOffset="6545408" MonolithLength="450560"
+          SampleRate="44100.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_A0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="412978" MonolithOffset="6995968" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_C4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="451911" MonolithOffset="7409664" MonolithLength="454656"
+          SampleRate="44100.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_F#2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="436201" MonolithOffset="7864320" MonolithLength="438272"
+          SampleRate="44100.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_C0_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011638998985291"
+          SampleEnd="442011" MonolithOffset="8302592" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_A4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="411830" MonolithOffset="8744960" MonolithLength="413696"
+          SampleRate="44100.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_D#3_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="441689" MonolithOffset="9158656" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_D#1_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442402" MonolithOffset="9601024" MonolithLength="446464"
+          SampleRate="44100.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_F#4_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="442056" MonolithOffset="10047488" MonolithLength="442368"
+          SampleRate="44100.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}LS Organ/unique velocity/LSO_C2_X.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.011607766151428"
+          SampleEnd="439784" MonolithOffset="10489856" MonolithLength="442368"
+          SampleRate="44100.0"/>
+</samplemap>

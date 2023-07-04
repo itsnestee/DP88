@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="Upright CP" RRGroupAmount="1.0" MicPositions=";">
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_A6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_C7_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_D#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#0_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#1_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#2_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#3_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#4_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#5_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="33" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/40X/UP_F#6_X.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_A6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_C7_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_D#6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#0_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#1_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#2_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#3_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#4_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#5_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="34" HiVel="71" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/70W/UP_F#6_W.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_A6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_C7_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_D#6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#0_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#1_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#2_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#3_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#4_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#5_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="72" HiVel="107" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/90Y/UP_F#6_Y.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_A6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="24" LoKey="21" HiKey="26" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="108" LoKey="108" HiKey="124" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_C7_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_D#6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#0_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#1_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#2_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#3_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#4_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011607766151428"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#5_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="108" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}G. Piano/Upright CP/110Z/UP_F#6_Z.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.011638998985291"/>
+</samplemap>
