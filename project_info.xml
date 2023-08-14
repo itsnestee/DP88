@@ -4,7 +4,7 @@
   <Name value="Dp88"/>
   <Version value="1.0.0"/>
   <Description value=""/>
-  <BundleIdentifier value="com.deepInstruments.dp88"/>
+  <BundleIdentifier value="com.manu711.dp88"/>
   <PluginCode value="Dpit"/>
   <EmbedAudioFiles value="Yes"/>
   <EmbedImageFiles value="Yes"/>
@@ -32,4 +32,10 @@
   <ForceStereoOutput value="1"/>
   <AdminPermissions value="No"/>
   <EmbedUserPresets value="Yes"/>
+  <VST3Category value=""/>
+  <EnableGlobalPreprocessor value="No"/>
+  <UseGlobalAppDataFolderWindows value="No"/>
+  <UseGlobalAppDataFolderMacOS value="No"/>
+  <DefaultUserPreset value=""/>
+  <OverwriteOldUserPresets value="No"/>
 </ProjectSettings>

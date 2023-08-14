@@ -7,12 +7,12 @@ const var laf = Engine.createGlobalScriptLookAndFeel();
 laf.registerFunction("drawRotarySlider", function(g, obj)
 {
 	
-	var a = obj.area;	
+	var a = obj.area; 	
 	if(obj.text.indexOf("PVolume") != - 1)
 	{
 		g.setColour(Colours.darkgrey);
 		g.fillEllipse([3, 3, 34, 34]);
-		g.addDropShadowFromAlpha(0x66000000, 15);
+		g.addDropShadowFromAlpha(0x33000000, 15);
 
 		var start = 2.5;
 		var end = start  * 2 * obj.valueNormalized - start;
@@ -26,7 +26,7 @@ laf.registerFunction("drawRotarySlider", function(g, obj)
 	{
 		g.setColour(Colours.darkgrey);
 		g.fillEllipse([2, 2, 26, 26]);
-		g.addDropShadowFromAlpha(0x66000000, 15);
+		g.addDropShadowFromAlpha(0x33000000, 15);
 		
 		var start = 2.5;
 		var end = start  * 2 * obj.valueNormalized - start;
@@ -40,7 +40,7 @@ laf.registerFunction("drawRotarySlider", function(g, obj)
 	{
 		g.setColour(Colours.darkgrey);
 		g.fillEllipse([2, 2, 26, 26]);
-		g.addDropShadowFromAlpha(0x66000000, 15);
+		g.addDropShadowFromAlpha(0x33000000, 15);
 		
 		var start = 2.5;
 		var end = start  * 2 * obj.valueNormalized - start;
@@ -49,6 +49,35 @@ laf.registerFunction("drawRotarySlider", function(g, obj)
 		g.setColour(Colours.white);
 		g.drawRect([a[2] / 2 - 3 / 2.7, 2, 2, 10], 8);
 	}
+	
+	else if(obj.text.indexOf("aRev") != - 1)
+	{
+		g.setColour(Colours.darkgrey);
+		g.fillEllipse([2, 2, 56, 56]);
+		g.addDropShadowFromAlpha(0x33000000, 15);
+
+		var start = 2.5;
+		var end = start  * 2 * obj.valueNormalized - start;
+	
+		g.rotate(end, [a[2] / 2, a[3] / 2]);
+		g.setColour(Colours.white);
+    	g.drawRect([a[2] / 2 - 3 / 2.7, 3, 2, 15.5], 10);
+	}
+	
+else if(obj.text.indexOf("lEQ") != - 1)
+{
+	g.setColour(Colours.darkgrey);
+	g.fillEllipse([2, 2, 56, 56]);
+	g.addDropShadowFromAlpha(0x33000000, 15);
+
+	var start = 2.5;
+	var end = start  * 2 * obj.valueNormalized - start;
+
+	g.rotate(end, [a[2] / 2, a[3] / 2]);
+	g.setColour(Colours.white);
+    	g.drawRect([a[2] / 2 - 3 / 2.7, 3, 2, 15.5], 10);
+}
+
 });
 
 
@@ -57,15 +86,15 @@ laf.registerFunction("drawToggleButton", function(g, obj)
 {
 	var b = obj.area;
 
- if(obj.text.indexOf("Switch") != - 1)
-{
-	
-	if(obj.value == 0)
+ 	if(obj.text.indexOf("Switch") != - 1)
 	{
+	
+		if(obj.value == 0)
+	{	
 		g.setColour(0xFFFFFFFF);
 		g.setFont("Roboto", 12);
 		g.drawAlignedText("ON", b, "centred");	
-	}
+		}
 		
 	else if(obj.value == 1)
 	{
@@ -82,11 +111,11 @@ laf.registerFunction("drawToggleButton", function(g, obj)
 	}
 		
 	
-}
+	}
 
 //PIANOS
 //Sound1
-else if(obj.text.indexOf("Button1") != - 1)
+	else if(obj.text.indexOf("Button1") != - 1)
  	{
 	 	g.setColour(Colours.grey);
 	 	g.fillEllipse([3, 5, 8, 8]);
@@ -111,11 +140,11 @@ else if(obj.text.indexOf("Button1") != - 1)
 	 			 	g.fillEllipse([3, 5, 8, 8]);	
 	 		 	}
 	 	
- 	}
+ 		}
 
 
-//Sound2
-else if(obj.text.indexOf("Button2") != - 1)
+	//Sound2
+	else if(obj.text.indexOf("Button2") != - 1)
  	{
 	 	g.setColour(Colours.grey);
 	 	g.fillEllipse([3, 5, 8, 8]);
@@ -143,8 +172,8 @@ else if(obj.text.indexOf("Button2") != - 1)
  	}
 
 
-//Sound3
-else if(obj.text.indexOf("Button3") != - 1)
+	//Sound3
+	else if(obj.text.indexOf("Button3") != - 1)
  	{
 	 	g.setColour(Colours.grey);
 	 	g.fillEllipse([3, 5, 8, 8]);
@@ -168,11 +197,11 @@ else if(obj.text.indexOf("Button3") != - 1)
 	 			 	g.setColour(Colours.grey);
 	 			 	g.fillEllipse([3, 5, 8, 8]);	
 	 		 	}
- 	}
+ 		}
 
 
-//Sound4
-else if(obj.text.indexOf("Button4") != - 1)
+	//Sound4
+	else if(obj.text.indexOf("Button4") != - 1)
  	{
 	 	g.setColour(Colours.grey);
 	 	g.fillEllipse([3, 5, 8, 8]);
@@ -198,8 +227,8 @@ else if(obj.text.indexOf("Button4") != - 1)
 	 		 	}
  	}
  	
- //Ekeys
- else if(obj.text.indexOf("Button6") != - 1)
+ 	//Ekeys
+ 	else if(obj.text.indexOf("Button6") != - 1)
   	{
  	 	g.setColour(Colours.grey);
  	 	g.fillEllipse([3, 5, 8, 8]);
@@ -311,7 +340,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	
   	
   	//Subor
-  	 else if(obj.text.indexOf("Button-11") != - 1)
+else if(obj.text.indexOf("Button-11") != - 1)
   	  	{
   	 	 	g.setColour(Colours.grey);
   	 	 	g.fillEllipse([3, 5, 8, 8]);
@@ -338,7 +367,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 
   	 
   	 //Sound2
-  	 else if(obj.text.indexOf("Button-12") != - 1)
+else if(obj.text.indexOf("Button-12") != - 1)
   	  	{
   	 	 	g.setColour(Colours.grey);
   	 	 	g.fillEllipse([3, 5, 8, 8]);
@@ -365,7 +394,7 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 
   	 
   	 //Sound3
-  	 else if(obj.text.indexOf("Button-13") != - 1)
+else if(obj.text.indexOf("Button-13") != - 1)
   	  	{
   	 	 	g.setColour(Colours.grey);
   	 	 	g.fillEllipse([3, 5, 8, 8]);
@@ -391,15 +420,15 @@ else if(obj.text.indexOf("Button4") != - 1)
   	  	}
   	 
   	 
-  	 //Sound4
-  	 else if(obj.text.indexOf("Button-14") != - 1)
-  	  	{
+//Sound4
+else if(obj.text.indexOf("Button-14") != - 1)
+  {
   	 	 	g.setColour(Colours.grey);
   	 	 	g.fillEllipse([3, 5, 8, 8]);
   	 	 	
   	 	 	g.setColour(0xAAFFFFFF);
   	 	 	g.setFont("Roboto", 10);
-  	 	 	g.drawAlignedText("Worship", [15, 2, 70, 15] , "left");
+  	 	 	g.drawAlignedText("Worship Pads", [15, 2, 70, 15] , "left");
   	 	 	
   	 	 	if(obj.value)
   	 	 	{
@@ -408,16 +437,118 @@ else if(obj.text.indexOf("Button4") != - 1)
   	 		 	
   	 		 	g.setColour(0xFFFFFFFF);
   	 		 	g.setFont("Roboto", 10);
-  	 		 	g.drawAlignedText("Worship", [15, 2, 70, 15], "left");
+  	 		 	g.drawAlignedText("Worship Pads", [15, 2, 70, 15], "left");
   	 	 	}
   	 	 	if(Button15.getValue() == 1)
   	 	 	 	 	 	 	 		 	{
   	 	 	 	 	 	 	 			 	g.setColour(Colours.grey);
   	 	 	 	 	 	 	 			 	g.fillEllipse([3, 5, 8, 8]);	
   	 	 	 	 	 	 	 		 	}
-  	  	}	
+  }	
  	
+
+
+
+
+	else if(obj.text.indexOf("promptYesButton") != - 1)
+	{	
+		g.setColour(0xFF171717);
+		g.fillRoundedRectangle(obj.area, 3);
+		
+		g.setColour(0xFFFAF9F6);
+		g.setOpacity(0.5);
+		
+		g.drawAlignedText("Yes", obj.area, "centred");
+		
+		if(obj.over)
+		{
+			g.setColour(0xFFFAF9F6);
+			g.setOpacity(1);
+					
+			g.drawAlignedText("Yes", obj.area, "centred");
+			
+			
+		}
+	}
+	
+	
+	
+	else if(obj.text.indexOf("promptNoButton") != - 1)
+	{	
+		g.setColour(0xFF171717);
+		g.fillRoundedRectangle(obj.area, 3);
+		
+		g.setColour(0xFFFAF9F6);
+		g.setOpacity(0.5);
+		
+		g.drawAlignedText("No", obj.area, "centred");
+		
+		if(obj.over)
+		{
+			g.setColour(0xFFFAF9F6);
+			g.setOpacity(1);
+					
+			g.drawAlignedText("No", obj.area, "centred");
+			
+			
+		}
+	}
+	
+	
+	else if(obj.text.indexOf("showAgainButton") != - 1)
+	{	
+		g.setColour(0xAAFAF9F6);
+		g.drawRoundedRectangle([4, 4, 20, 20 ], 3, 2);
+		
+		
+		
+		if(obj.value)
+		{
+			
+			g.setColour(0xAAFAF9F6);		
+			g.fillRoundedRectangle([4, 4, 20, 20 ], 3);
+			
+			
+		}
+	}
+	
+	else if(obj.text.indexOf("doneButton") != - 1)
+	{	
+		g.setColour(0xFF171717);
+		g.fillRoundedRectangle(obj.area, 3);
+		
+		g.setColour(0xFFFAF9F6);
+		g.setOpacity(0.5);
+		
+		g.drawAlignedText("Done", obj.area, "centred");
+		
+		if(obj.over)
+		{
+			g.setColour(0xFFFAF9F6);
+			g.setOpacity(1);
+					
+			g.drawAlignedText("Done", obj.area, "centred");
+			
+			
+		}
+	}
+	
+	
+
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //Alert Window
 laf.registerFunction("drawAlertWindow", function(g, obj)

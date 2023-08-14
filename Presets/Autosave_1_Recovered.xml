@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Processor Type="SynthChain" ID="User Acceptance_Test1" Bypassed="0" Gain="1.0"
+           Balance="0.0" VoiceLimit="64.0" KillFadeTime="20.0" IconColour="0"
+           packageName="" BuildVersion="650">
+  <EditorStates BodyShown="0" Visible="1" Solo="0" Folded="1"/>
+  <ChildProcessors>
+    <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
+      <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+      <ChildProcessors>
+        <Processor Type="ScriptProcessor" ID="Interface" Bypassed="0" Script="Content.makeFrontInterface(800, 550);&#10;&#10;include(&quot;BlackKeys.js&quot;);&#10;include(&quot;PathAssets.js&quot;);&#10;include(&quot;Navbar.js&quot;);&#10;include(&quot;LandGui.js&quot;);&#10;include(&quot;InstFx.js&quot;);&#10;include(&quot;MainFx.js&quot;);&#10;include(&quot;Laf.js&quot;);&#10;include(&quot;BallAni.js&quot;);&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;RotImg.setPosition(-300, 0, 300, 220);&#10;&#10;RotImg.setTimerCallback(function()&#10;{&#10;&#9;var PosX1 = RotImg.get(&quot;x&quot;);&#10;&#9;&#10;&#9;if(PosX1 &lt;= 0)&#10;&#9;{&#10;&#9;&#9;PosX1++;&#9;&#10;&#9;}&#10;&#10;&#9;this.setPosition(PosX1, 0, 300, 220);&#10;&#10;&#9;this.repaint();&#10;&#9;&#10;});&#10;&#10;RotImg.startTimer(1);&#10;&#10;&#10;&#10;RotImg1.setPosition(1000, 0, 300, 220);&#10;&#10;RotImg1.setTimerCallback(function()&#10;{&#10;&#9;var PosX2 = RotImg1.get(&quot;x&quot;);&#10;&#9;&#10;&#9;if(PosX2 &gt;= 500)&#10;&#9;{&#10;&#9;&#9;PosX2--;&#9;&#10;&#9;}&#10;&#10;&#9;this.setPosition(PosX2, 0, 300, 220);&#10;&#10;&#9;this.repaint();&#10;&#9;&#10;});&#10;&#10;RotImg1.startTimer(1);&#10;&#10;&#10;&#10;RotImg2.setPosition(335, -200, 124, 200);&#10;&#10;RotImg2.setTimerCallback(function()&#10;{&#10;&#9;var PosY3 = RotImg2.get(&quot;y&quot;);&#10;&#9;&#10;&#9;if(PosY3 &lt;= 0)&#10;&#9;{&#10;&#9;&#9;PosY3++;&#9;&#10;&#9;}&#10;&#10;&#9;this.setPosition(335, PosY3, 300, 220);&#10;&#10;&#9;this.repaint();&#10;&#9;&#10;});&#10;&#10;RotImg2.startTimer(1);&#10;&#10;&#10;function onNoteOn()&#10;{&#10;&#9;pnlAni1.startTimer(10);&#10;&#9;pnlAni2.startTimer(10);&#10;&#9;pnlAni3.startTimer(10);&#10;&#9;&#10;&#9;&#10;&#9;&#10;}&#10;function onNoteOff()&#10;{&#10;&#9;pnlAni1.stopTimer();&#10;&#9;pnlAni2.stopTimer();&#10;&#9;pnlAni3.stopTimer();&#10;&#9;&#10;&#9;&#10;&#9;&#10;}function onController()&#10;{&#10;&#9;&#10;}&#10; function onTimer()&#10;{&#10;&#9;&#10;}&#10; function onControl(number, value)&#10;{&#10;&#9;&#10;}&#10; ">
+          <EditorStates BodyShown="1" Visible="1" Solo="0" contentShown="1" onInitOpen="1"/>
+          <ChildProcessors/>
+          <Content>
+            <Control type="ScriptPanel" id="selK" value="1"/>
+            <Control type="ScriptButton" id="Button1" value="0"/>
+            <Control type="ScriptButton" id="Button2" value="1.0"/>
+            <Control type="ScriptButton" id="Button3" value="0.0"/>
+            <Control type="ScriptButton" id="Button4" value="0.0"/>
+            <Control type="ScriptButton" id="Button5" value="1.0"/>
+            <Control type="ScriptSlider" id="Knob1" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob2" value="20000.0"/>
+            <Control type="ScriptSlider" id="Knob3" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob4" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob5" value="0.6600000262260437"/>
+            <Control type="ScriptPanel" id="selK1" value="0"/>
+            <Control type="ScriptButton" id="Button6" value="1.0"/>
+            <Control type="ScriptButton" id="Button7" value="0.0"/>
+            <Control type="ScriptButton" id="Button8" value="0.0"/>
+            <Control type="ScriptButton" id="Button9" value="0.0"/>
+            <Control type="ScriptButton" id="Button10" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob6" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob7" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob8" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob9" value="7.0"/>
+            <Control type="ScriptSlider" id="Knob10" value="0.5799999833106995"/>
+            <Control type="ScriptPanel" id="selK2" value="2"/>
+            <Control type="ScriptButton" id="Button-11" value="0"/>
+            <Control type="ScriptButton" id="Button-12" value="0"/>
+            <Control type="ScriptButton" id="Button-13" value="1.0"/>
+            <Control type="ScriptButton" id="Button-14" value="0.0"/>
+            <Control type="ScriptButton" id="Button15" value="1.0"/>
+            <Control type="ScriptSlider" id="Knob11" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob12" value="20000.0"/>
+            <Control type="ScriptSlider" id="Knob13" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob14" value="2661.0"/>
+            <Control type="ScriptSlider" id="Knob15" value="0.3700000047683716"/>
+            <Control type="ScriptButton" id="Button16" value="1.0"/>
+            <Control type="ScriptButton" id="Button17" value="1.0"/>
+            <Control type="ScriptButton" id="Button18" value="1.0"/>
+            <Control type="ScriptSlider" id="Knob16" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob17" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob18" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob19" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob20" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob21" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob22" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob23" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob24" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob25" value="20.0"/>
+            <Control type="ScriptSlider" id="Knob26" value="0.300000011920929"/>
+            <Control type="ScriptSlider" id="Knob27" value="0.0"/>
+            <Control type="ScriptSlider" id="Knob28" value="0.0"/>
+          </Content>
+          <UIData>
+            <ContentProperties DeviceType="Desktop">
+              <Component type="ScriptPanel" id="SpacerL" x="0.0" y="470.0" width="80.0"
+                         height="80.0" borderSize="0.0" borderRadius="0.0" itemColour="4279571733"
+                         itemColour2="1075123477"/>
+              <Component type="ScriptFloatingTile" id="Keys" x="80.0" y="470.0" width="640.0"
+                         height="80.0" ContentType="Keyboard" bgColour="4284769380" itemColour="452984831"
+                         itemColour2="4294967295" textColour="0" Data="{&#10;  &quot;KeyWidth&quot;: 14.0,&#10;  &quot;DisplayOctaveNumber&quot;: false,&#10;  &quot;LowKey&quot;: 24,&#10;  &quot;HiKey&quot;: 101,&#10;  &quot;CustomGraphics&quot;: true,&#10;  &quot;DefaultAppearance&quot;: false,&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#10;  &quot;ToggleMode&quot;: false,&#10;  &quot;MidiChannel&quot;: 1,&#10;  &quot;UseVectorGraphics&quot;: true,&#10;  &quot;UseFlatStyle&quot;: false,&#10;  &quot;MPEKeyboard&quot;: false,&#10;  &quot;MPEStartChannel&quot;: 2,&#10;  &quot;MPEEndChannel&quot;: 16&#10;}"/>
+              <Component type="ScriptPanel" id="SpacerR" x="720.0" y="470.0" width="80.0"
+                         height="80.0" borderSize="0.0" borderRadius="0.0" itemColour="4279571733"
+                         itemColour2="1075123477"/>
+              <Component type="ScriptPanel" id="LandingUi" x="0.0" y="0.0" width="800.0"
+                         height="220.0" borderSize="0.0" itemColour="0" itemColour2="0"
+                         bgColour="0" borderRadius="0.0">
+                <Component type="ScriptPanel" id="SoundLine" x="42.0" y="46.0" width="716.0"
+                           height="171.0" bgColour="0" itemColour="0" itemColour2="0" textColour="0"
+                           borderSize="0.0" parentComponent="LandingUi">
+                  <Component type="ScriptPanel" id="SlineLayer" x="1.0" y="1.0" width="714.0"
+                             height="169.0" parentComponent="SoundLine" borderSize="0.0" itemColour="4279374354"
+                             bgColour="51515922" itemColour2="4279374354" locked="1"/>
+                </Component>
+                <Component type="ScriptPanel" id="RotImg" x="1" y="0" width="300" height="220"
+                           parentComponent="LandingUi" borderSize="0.0" borderRadius="0.0"/>
+                <Component type="ScriptPanel" id="RotImg1" x="499" y="0" width="300" height="220"
+                           parentComponent="LandingUi" borderSize="0.0" borderRadius="0.0"/>
+                <Component type="ScriptPanel" id="RotImg2" x="335" y="1" width="300" height="220"
+                           parentComponent="LandingUi" borderSize="0.0" borderRadius="0.0"
+                           itemColour="0" bgColour="0" itemColour2="0" textColour="0">
+                  <Component type="ScriptPanel" id="Lowercp" x="0.0" y="140.0" width="124.0"
+                             height="60.0" parentComponent="RotImg2" text="Lower" borderSize="0.0"
+                             borderRadius="0.0"/>
+                  <Component type="ScriptPanel" id="Midcp" x="0.0" y="80.0" width="124.0"
+                             height="60.0" parentComponent="RotImg2" borderSize="0.0" borderRadius="0.0"/>
+                  <Component type="ScriptPanel" id="Hicp1" x="0.0" y="20.0" width="124.0"
+                             height="60.0" parentComponent="RotImg2" borderSize="0.0" borderRadius="0.0"/>
+                </Component>
+                <Component type="ScriptPanel" id="DpTitle" x="107.0" y="50.0" width="566.0"
+                           height="146.0" parentComponent="LandingUi" bgColour="0" itemColour="0"
+                           itemColour2="0" textColour="0" borderSize="0.0" borderRadius="0.0"/>
+              </Component>
+              <Component type="ScriptPanel" id="LayerBlur" x="0.0" y="0.0" width="800.0"
+                         height="26.0" borderSize="0.0" borderRadius="0.0"/>
+              <Component type="ScriptPanel" id="Navbar" x="0.0" y="0.0" width="800.0"
+                         height="26.0" borderSize="0.0" borderRadius="0.0" bgColour="0"
+                         itemColour="0" itemColour2="0">
+                <Component type="ScriptPanel" id="Home" x="266.0" y="0.0" width="50.0" height="26.0"
+                           bgColour="0" itemColour="0" itemColour2="0" textColour="0" borderSize="0.0"
+                           borderRadius="0.0" allowCallbacks="Clicks &amp; Hover" parentComponent="Navbar"/>
+                <Component type="ScriptPanel" id="FxTitle" x="365.0" y="0.0" width="74.0"
+                           height="26.0" parentComponent="Navbar" bgColour="0" itemColour="0"
+                           itemColour2="0" textColour="0" borderSize="0.0" borderRadius="0.0"
+                           allowCallbacks="Clicks &amp; Hover"/>
+                <Component type="ScriptPanel" id="SetTitle" x="484.0" y="0.0" width="86.0"
+                           height="26.0" parentComponent="Navbar" bgColour="0" itemColour="0"
+                           itemColour2="0" textColour="0" borderSize="0.0" borderRadius="0.0"
+                           allowCallbacks="Clicks &amp; Hover"/>
+                <Component type="ScriptPanel" id="ContactsTitle" x="711.0" y="0.0" width="78.0"
+                           height="26.0" parentComponent="Navbar" bgColour="0" itemColour="0"
+                           itemColour2="0" textColour="0" borderSize="0.0" borderRadius="0.0"
+                           allowCallbacks="Clicks &amp; Hover"/>
+              </Component>
+              <Component type="ScriptPanel" id="InstFx" x="0.0" y="220.0" borderSize="0.0"
+                         borderRadius="0.0" width="800.0" height="252.0" itemColour="4279571733"
+                         itemColour2="4279571733">
+                <Component type="ScriptPanel" id="pnlAni" x="10" y="10" width="100" height="100"
+                           parentComponent="InstFx"/>
+                <Component type="ScriptPanel" id="pnlAni1" x="130" y="120" width="120" height="120"
+                           parentComponent="InstFx"/>
+                <Component type="ScriptPanel" id="pnlAni2" x="340" y="50" width="120" height="120"
+                           parentComponent="InstFx"/>
+                <Component type="ScriptPanel" id="pnlAni3" x="530" y="120" width="120" height="120"
+                           parentComponent="InstFx"/>
+                <Component type="ScriptPanel" id="pnlAni4" x="670" y="10" width="100" height="100"
+                           parentComponent="InstFx"/>
+                <Component type="ScriptPanel" id="piano" x="15.0" y="40.0" width="230.0"
+                           height="170.0" parentComponent="InstFx">
+                  <Component type="ScriptPanel" id="selK" x="10.0" y="20.0" width="60.0" height="60.0"
+                             saveInPreset="1" allowCallbacks="Clicks, Hover &amp; Dragging"
+                             parentComponent="piano"/>
+                  <Component type="ScriptButton" id="Button1" x="80.0" y="10.0" width="70.0"
+                             height="15.0" parentComponent="piano" radioGroup="1.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button2" x="80.0" y="30.0" width="75.0"
+                             height="15.0" parentComponent="piano" radioGroup="1.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button3" x="80.0" y="50.0" width="70.0"
+                             height="15.0" parentComponent="piano" radioGroup="1.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button4" x="80.0" y="70.0" width="70.0"
+                             height="15.0" parentComponent="piano" radioGroup="1.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button5" x="175.0" y="10.0" width="70.0"
+                             height="15.0" parentComponent="piano" text="Switch-ON"/>
+                  <Component type="ScriptSlider" id="Knob1" x="20.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="piano" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob2" x="70.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="piano" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob3" x="120.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="piano" text="NORM" mode="Decibel"
+                             min="-100.0" max="0.0" stepSize="0.1000000014901161" suffix=" dB"
+                             middlePosition="-18.0"/>
+                  <Component type="ScriptSlider" id="Knob4" x="170.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="piano" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob5" x="170.0" y="30.0" width="40.0"
+                             height="40.0" parentComponent="piano" text="PVolume" showValuePopup="Above"/>
+                </Component>
+                <Component type="ScriptPanel" id="Ekeys" x="285.0" y="40.0" width="230.0"
+                           height="170.0" parentComponent="InstFx">
+                  <Component type="ScriptPanel" id="selK1" x="10.0" y="20.0" width="60.0"
+                             height="60.0" saveInPreset="1" allowCallbacks="Clicks, Hover &amp; Dragging"
+                             parentComponent="Ekeys"/>
+                  <Component type="ScriptButton" id="Button6" x="80.0" y="10.0" width="70.0"
+                             height="15.0" parentComponent="Ekeys" radioGroup="2.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button7" x="80.0" y="30.0" width="70.0"
+                             height="15.0" parentComponent="Ekeys" radioGroup="2.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button8" x="80.0" y="50.0" width="70.0"
+                             height="15.0" parentComponent="Ekeys" radioGroup="2.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button9" x="80.0" y="70.0" width="75.0"
+                             height="15.0" parentComponent="Ekeys" radioGroup="2.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button10" x="175.0" y="10.0" width="70.0"
+                             height="15.0" parentComponent="Ekeys" text="Switch-ON"/>
+                  <Component type="ScriptSlider" id="Knob6" x="20.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Ekeys" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob7" x="70.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Ekeys" text="NORM" middlePosition="0.5"/>
+                  <Component type="ScriptSlider" id="Knob8" x="120.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Ekeys" text="NORM" middlePosition="0.5"/>
+                  <Component type="ScriptSlider" id="Knob9" x="170.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Ekeys" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob10" x="170.0" y="30.0" width="40.0"
+                             height="40.0" parentComponent="Ekeys" text="PVolume" showValuePopup="Above"/>
+                </Component>
+                <Component type="ScriptPanel" id="Subor" x="555.0" y="40.0" width="230.0"
+                           height="170.0" parentComponent="InstFx">
+                  <Component type="ScriptPanel" id="selK2" x="10.0" y="20.0" width="60.0"
+                             height="60.0" saveInPreset="1" allowCallbacks="Clicks, Hover &amp; Dragging"
+                             parentComponent="Subor"/>
+                  <Component type="ScriptButton" id="Button-11" x="80.0" y="10.0" width="70.0"
+                             height="15.0" parentComponent="Subor" radioGroup="3.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button-12" x="80.0" y="30.0" width="70.0"
+                             height="15.0" parentComponent="Subor" radioGroup="3.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button-13" x="80.0" y="50.0" width="70.0"
+                             height="15.0" parentComponent="Subor" radioGroup="3.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button-14" x="80.0" y="70.0" width="70.0"
+                             height="15.0" parentComponent="Subor" radioGroup="3.0" enableMidiLearn="0"/>
+                  <Component type="ScriptButton" id="Button15" x="175.0" y="10.0" width="70.0"
+                             height="15.0" parentComponent="Subor" text="Switch-ON"/>
+                  <Component type="ScriptSlider" id="Knob11" x="20.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Subor" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob12" x="70.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Subor" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob13" x="120.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Subor" text="NORM" middlePosition="0.5"/>
+                  <Component type="ScriptSlider" id="Knob14" x="170.0" y="120.0" width="30.0"
+                             height="30.0" parentComponent="Subor" text="NORM" mode="Time"
+                             max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                  <Component type="ScriptSlider" id="Knob15" x="170.0" y="30.0" width="40.0"
+                             height="40.0" parentComponent="Subor" text="PVolume" showValuePopup="Above"/>
+                </Component>
+              </Component>
+              <Component type="ScriptPanel" id="MainFX" x="0.0" y="25.0" borderSize="0.0"
+                         borderRadius="0.0" width="800.0" height="195.0" bgColour="0"
+                         itemColour="0" itemColour2="0" textColour="0" visible="0">
+                <Component type="ScriptButton" id="Button16" x="190.0" y="15.0" width="70.0"
+                           height="15.0" parentComponent="MainFX" text="Switch-ON"/>
+                <Component type="ScriptButton" id="Button17" x="470.0" y="15.0" width="70.0"
+                           height="15.0" parentComponent="MainFX" text="Switch-ON"/>
+                <Component type="ScriptButton" id="Button18" x="700.0" y="15.0" width="70.0"
+                           height="15.0" parentComponent="MainFX" text="Switch-ON"/>
+                <Component type="ScriptSlider" id="Knob16" x="60.0" y="45.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" mode="NormalizedPercentage"
+                           suffix="%" middlePosition="0.5" showValuePopup="Right"/>
+                <Component type="ScriptSlider" id="Knob17" x="160.0" y="45.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" mode="NormalizedPercentage"
+                           suffix="%" middlePosition="0.5" showValuePopup="Right"/>
+                <Component type="ScriptSlider" id="Knob18" x="60.0" y="125.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" mode="NormalizedPercentage"
+                           suffix="%" middlePosition="0.5" showValuePopup="Right"/>
+                <Component type="ScriptSlider" id="Knob19" x="160.0" y="125.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" mode="NormalizedPercentage"
+                           suffix="%" middlePosition="0.5" showValuePopup="Right"/>
+                <Component type="ScriptSlider" id="Knob20" x="330.0" y="45.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           mode="TempoSync" max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                <Component type="ScriptSlider" id="Knob21" x="430.0" y="45.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           mode="TempoSync" max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"/>
+                <Component type="ScriptSlider" id="Knob22" x="280.0" y="125.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           mode="NormalizedPercentage" suffix="%" middlePosition="0.5"/>
+                <Component type="ScriptSlider" id="Knob23" x="380.0" y="125.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           mode="NormalizedPercentage" suffix="%" middlePosition="0.5"/>
+                <Component type="ScriptSlider" id="Knob24" x="470.0" y="125.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           mode="NormalizedPercentage" suffix="%" middlePosition="0.5"/>
+                <Component type="ScriptSlider" id="Knob25" x="590.0" y="45.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           mode="Frequency" min="20.0" max="20000.0" stepSize="1.0" suffix=" Hz"
+                           middlePosition="1500.0"/>
+                <Component type="ScriptSlider" id="Knob26" x="690.0" y="45.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           min="0.300000011920929" max="8.0"/>
+                <Component type="ScriptSlider" id="Knob27" x="590.0" y="125.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           min="-1.0"/>
+                <Component type="ScriptSlider" id="Knob28" x="690.0" y="125.0" parentComponent="MainFX"
+                           width="30.0" height="30.0" text="NORM" showValuePopup="Right"
+                           mode="Decibel" min="-18.0" max="18.0" stepSize="0.1000000014901161"
+                           suffix=" dB" middlePosition="0.0"/>
+              </Component>
+              <Component type="ScriptPanel" id="SLayerTab" x="0.0" y="25.0" width="800.0"
+                         height="195.0" borderSize="0.0" borderRadius="0.0" itemColour="754974720"
+                         visible="0">
+                <Component type="ScriptFloatingTile" id="SettingsTab" x="215.0" y="0.0"
+                           width="290.0" height="180.0" ContentType="CustomSettings" bgColour="4278190080"
+                           itemColour="4278190080" itemColour2="4278190080" Data="{&#10;  &quot;Driver&quot;: false,&#10;  &quot;Device&quot;: false,&#10;  &quot;Output&quot;: false,&#10;  &quot;BufferSize&quot;: false,&#10;  &quot;SampleRate&quot;: false,&#10;  &quot;GlobalBPM&quot;: false,&#10;  &quot;StreamingMode&quot;: false,&#10;  &quot;ScaleFactor&quot;: true,&#10;  &quot;VoiceAmountMultiplier&quot;: false,&#10;  &quot;ClearMidiCC&quot;: false,&#10;  &quot;SampleLocation&quot;: true,&#10;  &quot;DebugMode&quot;: false,&#10;  &quot;ScaleFactorList&quot;: [&#10;    0.5,&#10;    0.75,&#10;    1.0,&#10;    1.25,&#10;    1.5,&#10;    2.0&#10;  ]&#10;}"
+                           itemColour3="4278190080" Font="Oxygen" parentComponent="SLayerTab"/>
+              </Component>
+            </ContentProperties>
+          </UIData>
+        </Processor>
+      </ChildProcessors>
+    </Processor>
+    <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
+      <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+      <ChildProcessors/>
+    </Processor>
+    <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="1" Intensity="0.0">
+      <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+      <ChildProcessors/>
+    </Processor>
+    <Processor Type="EffectChain" ID="FX" Bypassed="0">
+      <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+      <ChildProcessors>
+        <Processor Type="PolyphonicFilter" ID="Filter1" Bypassed="1" Gain="0.0"
+                   Frequency="20.0" Q="0.300000011920929" Mode="4.0" Quality="0.0"
+                   BipolarIntensity="0.0">
+          <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+          <ChildProcessors>
+            <Processor Type="ModulatorChain" ID="Frequency Modulation" Bypassed="0"
+                       Intensity="1.0">
+              <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+              <ChildProcessors/>
+            </Processor>
+            <Processor Type="ModulatorChain" ID="Gain Modulation" Bypassed="0" Intensity="1.0">
+              <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+              <ChildProcessors/>
+            </Processor>
+            <Processor Type="ModulatorChain" ID="Bipolar Freq Modulation" Bypassed="0"
+                       Intensity="1.0">
+              <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+              <ChildProcessors/>
+            </Processor>
+            <Processor Type="ModulatorChain" ID="Q Modulation" Bypassed="0" Intensity="1.0">
+              <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+              <ChildProcessors/>
+            </Processor>
+          </ChildProcessors>
+        </Processor>
+        <Processor Type="SimpleReverb" ID="Simple Reverb1" Bypassed="1" RoomSize="0.0"
+                   Damping="0.0" WetLevel="0.0" DryLevel="1.0" Width="0.0" FreezeMode="0.1000000014901161">
+          <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+          <ChildProcessors/>
+          <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+        </Processor>
+        <Processor Type="Delay" ID="Delay1" Bypassed="1" DelayTimeLeft="0.0" DelayTimeRight="0.0"
+                   FeedbackLeft="0.0" FeedbackRight="0.0" LowPassFreq="20000.0"
+                   HiPassFreq="40.0" Mix="0.0" TempoSync="1.0">
+          <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+          <ChildProcessors/>
+          <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+        </Processor>
+      </ChildProcessors>
+    </Processor>
+    <Processor Type="StreamingSampler" ID="Pianos" Bypassed="1" Gain="0.6600000262260437"
+               Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
+               PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
+               SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"
+               OneShot="0.0" CrossfadeGroups="0.0" Purged="0.0" Reversed="0.0"
+               NumChannels="1" UseStaticMatrix="0.0" Group0Table="" Group1Table=""
+               Group2Table="" Group3Table="" Group4Table="" Group5Table="" Group6Table=""
+               Group7Table="" SampleMapID="CFX Premium">
+      <EditorStates BodyShown="1" Visible="1" Solo="0" MapPanelShown="1" BigSampleMap="1"
+                    Folded="1"/>
+      <ChildProcessors>
+        <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors>
+            <Processor Type="AHDSR" ID="AHDSR Envelope1" Bypassed="0" Monophonic="0.0"
+                       Retrigger="1.0" Intensity="1.0" AttackCurve="0.0" DecayCurve="0.0"
+                       Attack="0.0" AttackLevel="0.0" Hold="10.0" Decay="20000.0" Sustain="0.0"
+                       Release="1.0" EcoMode="1.0">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors>
+                <Processor Type="ModulatorChain" ID="Attack Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Attack Level" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Decay Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Sustain Level" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Release Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+              </ChildProcessors>
+            </Processor>
+            <Processor Type="Velocity" ID="Velocity Modulator1" Bypassed="0" Intensity="1.0"
+                       UseTable="1.0" Inverted="0.0" DecibelMode="0.0" VelocityTableData="">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors/>
+            </Processor>
+          </ChildProcessors>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="0" Intensity="0.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="EffectChain" ID="FX" Bypassed="0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="Sample Start" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="Group Fade" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+      </ChildProcessors>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+      <channels>
+        <channelData enabled="1" level="0.0" suffix=""/>
+      </channels>
+    </Processor>
+    <Processor Type="StreamingSampler" ID="EKeys" Bypassed="0" Gain="0.5799999833106995"
+               Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
+               PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
+               SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"
+               OneShot="0.0" CrossfadeGroups="0.0" Purged="0.0" Reversed="0.0"
+               NumChannels="1" UseStaticMatrix="0.0" Group0Table="" Group1Table=""
+               Group2Table="" Group3Table="" Group4Table="" Group5Table="" Group6Table=""
+               Group7Table="" SampleMapID="Ballad 1">
+      <EditorStates BodyShown="1" Visible="1" Solo="0" MapPanelShown="1" BigSampleMap="1"
+                    Folded="1" CrossfadeTableShown="0"/>
+      <ChildProcessors>
+        <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors>
+            <Processor Type="AHDSR" ID="AHDSR Envelope2" Bypassed="0" Monophonic="0.0"
+                       Retrigger="1.0" Intensity="1.0" AttackCurve="0.0" DecayCurve="0.0"
+                       Attack="0.0" AttackLevel="0.0" Hold="10.0" Decay="20000.0" Sustain="0.0"
+                       Release="7.0" EcoMode="1.0">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors>
+                <Processor Type="ModulatorChain" ID="Attack Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Attack Level" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Decay Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Sustain Level" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Release Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+                  <ChildProcessors/>
+                </Processor>
+              </ChildProcessors>
+            </Processor>
+            <Processor Type="Velocity" ID="Velocity Modulator2" Bypassed="0" Intensity="1.0"
+                       UseTable="1.0" Inverted="0.0" DecibelMode="0.0" VelocityTableData="">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors/>
+            </Processor>
+          </ChildProcessors>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="0" Intensity="0.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors>
+            <Processor Type="LFO" ID="LFO Modulator1" Bypassed="0" Intensity="0.0" Bipolar="1"
+                       Frequency="19.95000076293945" FadeIn="1000.0" WaveformType="1.0"
+                       Legato="1.0" TempoSync="0.0" SmoothingTime="4.949999809265137"
+                       LoopEnabled="1.0" PhaseOffset="0.0" SyncToMasterClock="0.0" CustomWaveform=""
+                       StepData="64....f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+.">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors>
+                <Processor Type="ModulatorChain" ID="LFO Intensity Mod" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="LFO Frequency Mod" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+                  <ChildProcessors/>
+                </Processor>
+              </ChildProcessors>
+            </Processor>
+          </ChildProcessors>
+        </Processor>
+        <Processor Type="EffectChain" ID="FX" Bypassed="0">
+          <EditorStates BodyShown="1" Visible="1" Solo="0" Folded="0"/>
+          <ChildProcessors>
+            <Processor Type="ScriptFX" ID="Script FX1" Bypassed="1" Script=" function prepareToPlay(sampleRate, blockSize)&#10;{&#10;&#9;&#10;}&#10; function processBlock(channels)&#10;{&#10;&#9;&#10;}&#10; function onControl(number, value)&#10;{&#10;&#9;&#10;}&#10; ">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors/>
+              <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+              <Content/>
+              <Networks>
+                <Network ID="Co_samble" Version="0.0.0"/>
+              </Networks>
+              <UIData>
+                <ContentProperties DeviceType="Desktop"/>
+              </UIData>
+            </Processor>
+            <Processor Type="ScriptFX" ID="Script FX2" Bypassed="0" Script=" function prepareToPlay(sampleRate, blockSize)&#10;{&#10;&#9;&#10;}&#10; function processBlock(channels)&#10;{&#10;&#9;&#10;}&#10; function onControl(number, value)&#10;{&#10;&#9;&#10;}&#10; ">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors/>
+              <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+              <Content/>
+              <Networks>
+                <Network ID="test1" Version="0.0.0"/>
+              </Networks>
+              <UIData>
+                <ContentProperties DeviceType="Desktop"/>
+              </UIData>
+            </Processor>
+          </ChildProcessors>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="Sample Start" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="Group Fade" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0" Folded="1"/>
+          <ChildProcessors/>
+        </Processor>
+      </ChildProcessors>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+      <channels>
+        <channelData enabled="1" level="0.0" suffix=""/>
+      </channels>
+    </Processor>
+    <Processor Type="StreamingSampler" ID="Subs" Bypassed="1" Gain="0.3700000047683716"
+               Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
+               PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
+               SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"
+               OneShot="0.0" CrossfadeGroups="0.0" Purged="0.0" Reversed="0.0"
+               NumChannels="1" UseStaticMatrix="0.0" Group0Table="" Group1Table=""
+               Group2Table="" Group3Table="" Group4Table="" Group5Table="" Group6Table=""
+               Group7Table="" SampleMapID="Strings">
+      <EditorStates BodyShown="1" Visible="1" Solo="0" MapPanelShown="1" BigSampleMap="1"
+                    Folded="1"/>
+      <ChildProcessors>
+        <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="GainModulation" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors>
+            <Processor Type="AHDSR" ID="AHDSR Envelope3" Bypassed="0" Monophonic="0.0"
+                       Retrigger="1.0" Intensity="1.0" AttackCurve="0.0" DecayCurve="0.0"
+                       Attack="0.0" AttackLevel="0.0" Hold="10.0" Decay="20000.0" Sustain="0.0"
+                       Release="2661.0" EcoMode="1.0">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors>
+                <Processor Type="ModulatorChain" ID="Attack Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Attack Level" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Decay Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Sustain Level" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+                <Processor Type="ModulatorChain" ID="Release Time" Bypassed="0" Intensity="1.0">
+                  <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+                  <ChildProcessors/>
+                </Processor>
+              </ChildProcessors>
+            </Processor>
+            <Processor Type="Velocity" ID="Velocity Modulator3" Bypassed="0" Intensity="1.0"
+                       UseTable="1.0" Inverted="0.0" DecibelMode="0.0" VelocityTableData="36.......HhHxC...vO2q6c+....9C...vO...f+....9C...vO">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors/>
+            </Processor>
+          </ChildProcessors>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="PitchModulation" Bypassed="0" Intensity="0.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="EffectChain" ID="FX" Bypassed="0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors>
+            <Processor Type="ScriptFX" ID="Shimmer_FX" Bypassed="0" Script=" function prepareToPlay(sampleRate, blockSize)&#10;{&#10;&#9;&#10;}&#10; function processBlock(channels)&#10;{&#10;&#9;&#10;}&#10; function onControl(number, value)&#10;{&#10;&#9;&#10;}&#10; ">
+              <EditorStates BodyShown="1" Visible="1" Solo="0"/>
+              <ChildProcessors/>
+              <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+              <Content/>
+              <Networks>
+                <Network ID="shimmer_fx" Version="0.0.0"/>
+              </Networks>
+              <UIData>
+                <ContentProperties DeviceType="Desktop"/>
+              </UIData>
+            </Processor>
+          </ChildProcessors>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="Sample Start" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+        <Processor Type="ModulatorChain" ID="Group Fade" Bypassed="0" Intensity="1.0">
+          <EditorStates BodyShown="1" Visible="0" Solo="0"/>
+          <ChildProcessors/>
+        </Processor>
+      </ChildProcessors>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+      <channels>
+        <channelData enabled="1" level="0.0" suffix=""/>
+      </channels>
+    </Processor>
+  </ChildProcessors>
+  <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+  <macro_controls>
+    <macro name="Macro 1" value="0.0" midi_cc="-1"/>
+    <macro name="Macro 2" value="0.0" midi_cc="-1"/>
+    <macro name="Macro 3" value="0.0" midi_cc="-1"/>
+    <macro name="Macro 4" value="0.0" midi_cc="-1"/>
+    <macro name="Macro 5" value="0.0" midi_cc="-1"/>
+    <macro name="Macro 6" value="0.0" midi_cc="-1"/>
+    <macro name="Macro 7" value="0.0" midi_cc="-1"/>
+    <macro name="Macro 8" value="0.0" midi_cc="-1"/>
+  </macro_controls>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Processor>

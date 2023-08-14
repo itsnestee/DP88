@@ -14,8 +14,8 @@ const var EKeys = Synth.getChildSynth("EKeys");
 const var Button10 = Content.getComponent("Button10");
 //ADSR
 const var AHDSREnvelope2 = Synth.getModulator("AHDSR Envelope2");
-const var ScriptFX1 = Synth.getEffect("Script FX1");
-const var LFOModulator1 = Synth.getModulator("LFO Modulator1");
+const var HardcodedMasterFX1 = Synth.getEffect("HardcodedMasterFX1");
+const var LFOModulator2 = Synth.getModulator("LFO Modulator2");
 const var Knob6 = Content.getComponent("Knob6");
 const var Knob7 = Content.getComponent("Knob7");
 const var Knob8 = Content.getComponent("Knob8");
@@ -219,7 +219,7 @@ Knob6.setControlCallback(onKnob6Control);
 //PChorus
 inline function onKnob7Control(component, value)
 {
-	ScriptFX1.setAttribute(0, value);
+	HardcodedMasterFX1.setAttribute(0, value);
 };
 
 Knob7.setControlCallback(onKnob7Control);
@@ -227,7 +227,7 @@ Knob7.setControlCallback(onKnob7Control);
 //PTremolo
 inline function onKnob8Control(component, value)
 {
-	LFOModulator1.setIntensity(value);
+	LFOModulator2.setIntensity(value);
 };
 
 Knob8.setControlCallback(onKnob8Control);

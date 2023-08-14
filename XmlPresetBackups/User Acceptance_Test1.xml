@@ -14,7 +14,7 @@
             <Control type="ScriptButton" id="Button2" value="1.0"/>
             <Control type="ScriptButton" id="Button3" value="0.0"/>
             <Control type="ScriptButton" id="Button4" value="0.0"/>
-            <Control type="ScriptButton" id="Button5" value="0.0"/>
+            <Control type="ScriptButton" id="Button5" value="1.0"/>
             <Control type="ScriptSlider" id="Knob1" value="0.0"/>
             <Control type="ScriptSlider" id="Knob2" value="20000.0"/>
             <Control type="ScriptSlider" id="Knob3" value="0.0"/>
@@ -30,18 +30,18 @@
             <Control type="ScriptSlider" id="Knob7" value="0.0"/>
             <Control type="ScriptSlider" id="Knob8" value="0.0"/>
             <Control type="ScriptSlider" id="Knob9" value="7.0"/>
-            <Control type="ScriptSlider" id="Knob10" value="0.1099999994039536"/>
-            <Control type="ScriptPanel" id="selK2" value="2"/>
+            <Control type="ScriptSlider" id="Knob10" value="0.5799999833106995"/>
+            <Control type="ScriptPanel" id="selK2" value="2.0"/>
             <Control type="ScriptButton" id="Button-11" value="0"/>
             <Control type="ScriptButton" id="Button-12" value="0"/>
-            <Control type="ScriptButton" id="Button-13" value="1.0"/>
-            <Control type="ScriptButton" id="Button-14" value="0.0"/>
-            <Control type="ScriptButton" id="Button15" value="0.0"/>
+            <Control type="ScriptButton" id="Button-13" value="1"/>
+            <Control type="ScriptButton" id="Button-14" value="0"/>
+            <Control type="ScriptButton" id="Button15" value="1.0"/>
             <Control type="ScriptSlider" id="Knob11" value="0.0"/>
             <Control type="ScriptSlider" id="Knob12" value="20000.0"/>
             <Control type="ScriptSlider" id="Knob13" value="0.0"/>
             <Control type="ScriptSlider" id="Knob14" value="2661.0"/>
-            <Control type="ScriptSlider" id="Knob15" value="0.7599999904632568"/>
+            <Control type="ScriptSlider" id="Knob15" value="0.3700000047683716"/>
             <Control type="ScriptButton" id="Button16" value="1.0"/>
             <Control type="ScriptButton" id="Button17" value="1.0"/>
             <Control type="ScriptButton" id="Button18" value="1.0"/>
@@ -104,7 +104,7 @@
         </Processor>
       </ChildProcessors>
     </Processor>
-    <Processor Type="StreamingSampler" ID="Pianos" Bypassed="0" Gain="0.6600000262260437"
+    <Processor Type="StreamingSampler" ID="Pianos" Bypassed="1" Gain="0.6600000262260437"
                Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
                PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
                SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"
@@ -164,7 +164,7 @@
         <channelData enabled="1" level="0.0" suffix=""/>
       </channels>
     </Processor>
-    <Processor Type="StreamingSampler" ID="EKeys" Bypassed="0" Gain="0.1099999994039536"
+    <Processor Type="StreamingSampler" ID="EKeys" Bypassed="0" Gain="0.5799999833106995"
                Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
                PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
                SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"
@@ -251,7 +251,7 @@
         <channelData enabled="1" level="0.0" suffix=""/>
       </channels>
     </Processor>
-    <Processor Type="StreamingSampler" ID="Subs" Bypassed="0" Gain="0.7599999904632568"
+    <Processor Type="StreamingSampler" ID="Subs" Bypassed="1" Gain="0.3700000047683716"
                Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
                PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
                SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"

@@ -19,7 +19,7 @@ const var Knob12 = Content.getComponent("Knob12");
 const var Knob13 = Content.getComponent("Knob13");
 const var Knob14 = Content.getComponent("Knob14");
 //FX
-const var Shimmer_FX = Synth.getEffect("Shimmer_FX");
+const var HardcodedMasterFX2 = Synth.getEffect("HardcodedMasterFX2");
 
 
 
@@ -218,7 +218,7 @@ Knob12.setControlCallback(onKnob12Control);
 //PShimmer
 inline function onKnob13Control(component, value)
 {
-	Shimmer_FX.setAttribute(0, value);
+	HardcodedMasterFX2.setAttribute(0, value);
 };
 
 Knob13.setControlCallback(onKnob13Control);

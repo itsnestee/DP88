@@ -14,8 +14,6 @@ const var DpTitle = Content.getComponent("DpTitle");
 
 
 
-
-
 DpTitle.setPaintRoutine(function(g)
 {
 
