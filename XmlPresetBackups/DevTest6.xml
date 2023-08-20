@@ -9,28 +9,28 @@
         <Processor Type="ScriptProcessor" ID="Interface" Bypassed="0">
           <ChildProcessors/>
           <Content>
-            <Control type="ScriptPanel" id="selK" value="2"/>
-            <Control type="ScriptButton" id="Button1" value="0"/>
-            <Control type="ScriptButton" id="Button2" value="0"/>
-            <Control type="ScriptButton" id="Button3" value="1.0"/>
+            <Control type="ScriptPanel" id="selK" value="0"/>
+            <Control type="ScriptButton" id="Button1" value="1.0"/>
+            <Control type="ScriptButton" id="Button2" value="0.0"/>
+            <Control type="ScriptButton" id="Button3" value="0.0"/>
             <Control type="ScriptButton" id="Button4" value="0.0"/>
-            <Control type="ScriptButton" id="Button5" value="1.0"/>
+            <Control type="ScriptButton" id="Button5" value="0.0"/>
             <Control type="ScriptSlider" id="Knob1" value="0.0"/>
             <Control type="ScriptSlider" id="Knob2" value="20000.0"/>
             <Control type="ScriptSlider" id="Knob3" value="0.0"/>
             <Control type="ScriptSlider" id="Knob4" value="832.0"/>
-            <Control type="ScriptSlider" id="Knob5" value="0.4300000071525574"/>
+            <Control type="ScriptSlider" id="Knob5" value="0.25"/>
             <Control type="ScriptPanel" id="selK1" value="0"/>
             <Control type="ScriptButton" id="Button6" value="1.0"/>
             <Control type="ScriptButton" id="Button7" value="0.0"/>
             <Control type="ScriptButton" id="Button8" value="0.0"/>
             <Control type="ScriptButton" id="Button9" value="0.0"/>
-            <Control type="ScriptButton" id="Button10" value="0.0"/>
+            <Control type="ScriptButton" id="Button10" value="1.0"/>
             <Control type="ScriptSlider" id="Knob6" value="8.0"/>
-            <Control type="ScriptSlider" id="Knob7" value="0.05000000074505806"/>
+            <Control type="ScriptSlider" id="Knob7" value="0.0"/>
             <Control type="ScriptSlider" id="Knob8" value="0.0"/>
             <Control type="ScriptSlider" id="Knob9" value="233.0"/>
-            <Control type="ScriptSlider" id="Knob10" value="0.2700000107288361"/>
+            <Control type="ScriptSlider" id="Knob10" value="0.1800000071525574"/>
             <Control type="ScriptPanel" id="selK2" value="2"/>
             <Control type="ScriptButton" id="Button-11" value="0"/>
             <Control type="ScriptButton" id="Button-12" value="0"/>
@@ -99,14 +99,14 @@
         </Processor>
       </ChildProcessors>
     </Processor>
-    <Processor Type="StreamingSampler" ID="Pianos" Bypassed="1" Gain="0.4300000071525574"
+    <Processor Type="StreamingSampler" ID="Pianos" Bypassed="0" Gain="0.25"
                Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
                PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
                SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"
                OneShot="0.0" CrossfadeGroups="0.0" Purged="0.0" Reversed="0.0"
                NumChannels="1" UseStaticMatrix="0.0" Group0Table="" Group1Table=""
                Group2Table="" Group3Table="" Group4Table="" Group5Table="" Group6Table=""
-               Group7Table="" SampleMapID="PwerGrand">
+               Group7Table="" SampleMapID="C7">
       <ChildProcessors>
         <Processor Type="MidiProcessorChain" ID="Midi Processor" Bypassed="0">
           <ChildProcessors/>
@@ -183,7 +183,7 @@
         <channelData enabled="1" level="0.0" suffix=""/>
       </channels>
     </Processor>
-    <Processor Type="StreamingSampler" ID="EKeys" Bypassed="0" Gain="0.2700000107288361"
+    <Processor Type="StreamingSampler" ID="EKeys" Bypassed="1" Gain="0.1800000071525574"
                Balance="0.0" VoiceLimit="256.0" KillFadeTime="20.0" IconColour="0"
                PreloadSize="8192.0" BufferSize="4096.0" VoiceAmount="256.0"
                SamplerRepeatMode="3.0" RRGroupAmount="1.0" PitchTracking="1.0"
@@ -269,7 +269,7 @@
         <Processor Type="EffectChain" ID="FX" Bypassed="0">
           <ChildProcessors>
             <Processor Type="Hardcoded Master FX" ID="HardcodedMasterFX1" Bypassed="0"
-                       Network="Chorus_wrap1" Amount="0.05000000074505806">
+                       Network="Chorus_wrap1" Amount="0.0">
               <ChildProcessors/>
               <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
             </Processor>

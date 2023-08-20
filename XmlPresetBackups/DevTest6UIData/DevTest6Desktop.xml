@@ -7,8 +7,11 @@
                height="550.0" itemColour="4279374354" itemColour2="4279374354"
                borderSize="0.0" borderRadius="0.0" parentComponent="ZoomPanel"
                visible="0">
-      <Component type="ScriptImage" id="backgroundLayer" x="0.0" y="0.0" width="800.0"
-                 height="550.0" parentComponent="wrappingPanel" fileName="{PROJECT_FOLDER}LOGO1.png"/>
+      <Component type="ScriptImage" id="backgroundLayer" x="210.0" y="220.0" width="410"
+                 height="90" parentComponent="wrappingPanel" fileName="{PROJECT_FOLDER}white (1).png"
+                 alpha="0.7"/>
+      <Component type="ScriptImage" id="Image1" x="670.0" y="500.0" parentComponent="wrappingPanel"
+                 width="110" height="40" alpha="0.55" fileName="{PROJECT_FOLDER}White logo.png"/>
     </Component>
     <Component type="ScriptFloatingTile" id="Keys" x="80.0" y="470.0" width="640.0"
                height="80.0" ContentType="Keyboard" bgColour="4284769380" itemColour="452984831"
@@ -35,7 +38,7 @@
         </Component>
         <Component type="ScriptPanel" id="RotImg" x="1" y="0" width="300" height="220"
                    parentComponent="LandingUi" borderSize="0.0" borderRadius="0.0"/>
-        <Component type="ScriptPanel" id="RotImg1" x="499" y="0" width="300" height="220"
+        <Component type="ScriptPanel" id="RotImg1" x="509" y="0" width="300" height="220"
                    parentComponent="LandingUi" borderSize="0.0" borderRadius="0.0"/>
         <Component type="ScriptPanel" id="RotImg2" x="335" y="1" width="300" height="220"
                    parentComponent="LandingUi" borderSize="0.0" borderRadius="0.0"
